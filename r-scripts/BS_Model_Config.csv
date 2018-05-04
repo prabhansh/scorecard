@@ -1,0 +1,10 @@
+parameter,weight,greater_issue,less_issue,Expected,Note
+(Intercept),-3.560621,2,-2,1,
+default_probability,12.898829,0.11,-1000,0.11,
+credit_final_growth_N,-0.400782,1000,-0.05,0,Low Credit Growth
+inward_cheque_bounces,0.008198,3,-100,0,High Cheque Bounces
+stability_N,0.645197,0.3,-100,0.25,Credits/EOD is Unstable
+eod_l3_w_non_od_N,-3.666891,1000,0.025,0.025,Low EOD Balance
+High_Penal_Transactions,0.591378,0.5,-100,0,High Penal Transactions
+Sensitivity,0.289367,0.5,-100,0,Ask is much Higher than Banking
+has_od,-0.3666891,1000,-1000,0,

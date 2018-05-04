@@ -1,0 +1,22 @@
+variable,var_name,High Point,High,Moderate Point,Moderate,units,Multiplier,Decimals,NotAvailable
+delinquency_index,30+ DPD,0.6,Presence of Delinquent Trades ( High Delinquency Index ),0.3,Presence of Delinquent Trades ( Moderate Delinquency Index ),in last 36 Months,1,1,0
+cibil_score,Cibil Score,0.5,Low Cibil Score,0.36,Low Cibil Score,,1,0,Cibil Score is not Available
+enquiry_index,Unique Enquiry,0.6,Too Many Enquiries,0.3,Many Enquiries,in Last 6 Months,1,1,0
+bureau_history_years,Bureau History,0.9,Tenure with bureau is low,0.48,Tenure with bureau is Medium,Years,1,1,Bureau History is not Available
+leverage_ratio,Leverage Ratio,0.6,Very High on Leverage,0.3,High on Leverage,%,100,0,0
+account_opened_60,Accounts Opened Recently,0.6,Too Many accounts opened in Last 60 Days,0.6,Too Many accounts opened in Last 60 Days,,1,0,0
+has_age_18_to_25,Age,1,Biological Age of the Applicant is <= 25 years,1,Biological Age of the Applicant is <= 25 years,,1,0,Age is not available
+total_monthly_debt,Monthly Debt,0.6,Monthly Obligation is very High,0.3,Monthly Obligation is High,INR,1,0,0
+business_vintage_in_years,Vintage,0.55,Business Vintage is Very Low,0.35,Business Vintage is Low,Years,1,1,Vintage is not Available
+location_risk,Location Band,0.41,High Location Risk,0.25,Moderate Location Risk,,1,0,0
+delinquency_index_lifetime,30+ DPD,0.6,Presence of Delinquent Trades ( High Delinquency Index ),0.3,Presence of Delinquent Trades ( Moderate Delinquency Index ),in Lifetime,1,1,0
+number_of_writeoff,Write Off Index,0.6,High Write Off/Sub Standard Suit Filed,0.3,Write Off/Sub Standard Suit Filed,,1,0,0
+income_1,Income,0.61,Income Reported on Bureau is Very Low,0.3,Income Reported on Bureau is Low,,1,0,Income is not Available in Cibil
+location_risk_self_declared,Location Band,0.41,High Location Risk,0.25,Moderate Location Risk,,1,0,0
+Age,Age,1,Promotor Age is Out of Satisfactory Bound,1,Promotor Age is Out of Satisfactory Bound,Years,1,1,Age is not available
+overdue_accounts,Overdue Accounts,0.6,Presence of Overdue Account,0.6,Presence of Overdue Account,,1,0,0
+avg_sanction_per_account,Avg Sanction Amt,0.6,Low Average Sanction Amount per Account on Cibil,0.3,Medium Average Sanction Amount per Account on Cibil,INR,1,0,0
+unique_domain_all,Email Domain,1,No Email Domain,1,No Email Domain,,1,0,0
+principal_paid_12,Principal Paid Last 12 Months,0.6,Principal Paid back by Borrower is Low as per Cibil,0.3,Principal Paid back by Borrower is Medium as per Cibil,INR,1,0,0
+total_principal_paid,Total Principal Paid,0.6,Principal Paid back by Borrower is Low as per Cibil,0.3,Principal Paid back by Borrower is Medium as per Cibil,INR,1,0,0
+owned_all,Property Owned,1,Asset Ownership is not Optimum (No Property Owned),1,Asset Ownership is not Optimum (No Property Owned),,1,0,0

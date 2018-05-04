@@ -1,0 +1,10 @@
+Thickness,Decision,Min_Prob,Max_Prob
+Thick,Approve,0,0.11
+Thick,Manual Review,0.11,0.19
+Thick,Decline,0.19,10000
+Thin,Approve,0,0.07
+Thin,Manual Review,0.07,0.2
+Thin,Decline,0.2,10000
+No Hit,Manual Review,0,0.11
+No Hit,Manual Review,0.11,0.19
+No Hit,Manual Review,0.19,10000

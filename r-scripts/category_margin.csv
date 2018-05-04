@@ -1,0 +1,9 @@
+Segment,SegmentID,Margin
+mobile/electronic retail,1,0.1
+other retail/apparel,2,0.15
+hotels/restaurant,3,0.15
+petrol pump,4,0.5
+travel agents,5,0.1
+salons/spa/gyms,6,0.2
+medical/diagnostic/doctor,7,0.2
+others,8,0.1

@@ -1,0 +1,121 @@
+ScoreBand,BureauThickness,Tier,model_decision,loan_cap,pricing,MaxTenor
+1,Thick,Tier1,Approve,1500000,18,36 Months
+2,Thick,Tier1,Approve,1500000,20,24 Months
+3,Thick,Tier1,Approve,700000,22,24 Months
+4,Thick,Tier1,Manual Review,700000,25,18 Months
+5,Thick,Tier1,Manual Review,500000,26,18 Months
+6,Thick,Tier1,Manual Review,500000,27,12 Months
+7,Thick,Tier1,Manual Review,300000,27,12 Months
+8,Thick,Tier1,Decline,0,0,NA
+9,Thick,Tier1,Decline,0,0,NA
+10,Thick,Tier1,Decline,0,0,NA
+1,Thin,Tier1,Approve,500000,19,24 Months
+2,Thin,Tier1,Approve,500000,21,24 Months
+3,Thin,Tier1,Manual Review,400000,24,18 Months
+4,Thin,Tier1,Manual Review,400000,27,18 Months
+5,Thin,Tier1,Manual Review,300000,28,12 Months
+6,Thin,Tier1,Manual Review,200000,30,12 Months
+7,Thin,Tier1,Manual Review,100000,30,12 Months
+8,Thin,Tier1,Manual Review,100000,30,12 Months
+9,Thin,Tier1,Decline,0,0,NA
+10,Thin,Tier1,Decline,0,0,NA
+1,No Hit,Tier1,Manual Review,0,0,NA
+2,No Hit,Tier1,Manual Review,0,0,NA
+3,No Hit,Tier1,Manual Review,0,0,NA
+4,No Hit,Tier1,Manual Review,0,0,NA
+5,No Hit,Tier1,Manual Review,0,0,NA
+6,No Hit,Tier1,Manual Review,0,0,NA
+7,No Hit,Tier1,Manual Review,0,0,NA
+8,No Hit,Tier1,Manual Review,0,0,NA
+9,No Hit,Tier1,Manual Review,0,0,NA
+10,No Hit,Tier1,Manual Review,0,0,NA
+1,Thick,Tier2,Approve,1500000,18,36 Months
+2,Thick,Tier2,Approve,1500000,20,24 Months
+3,Thick,Tier2,Approve,700000,22,24 Months
+4,Thick,Tier2,Manual Review,700000,25,18 Months
+5,Thick,Tier2,Manual Review,500000,26,18 Months
+6,Thick,Tier2,Manual Review,500000,27,12 Months
+7,Thick,Tier2,Manual Review,300000,27,12 Months
+8,Thick,Tier2,Decline,0,0,NA
+9,Thick,Tier2,Decline,0,0,NA
+10,Thick,Tier2,Decline,0,0,NA
+1,Thin,Tier2,Approve,500000,19,24 Months
+2,Thin,Tier2,Approve,500000,21,24 Months
+3,Thin,Tier2,Manual Review,400000,24,18 Months
+4,Thin,Tier2,Manual Review,400000,27,18 Months
+5,Thin,Tier2,Manual Review,300000,28,12 Months
+6,Thin,Tier2,Manual Review,200000,30,12 Months
+7,Thin,Tier2,Manual Review,100000,30,12 Months
+8,Thin,Tier2,Manual Review,100000,30,12 Months
+9,Thin,Tier2,Decline,0,0,NA
+10,Thin,Tier2,Decline,0,0,NA
+1,No Hit,Tier2,Manual Review,0,0,NA
+2,No Hit,Tier2,Manual Review,0,0,NA
+3,No Hit,Tier2,Manual Review,0,0,NA
+4,No Hit,Tier2,Manual Review,0,0,NA
+5,No Hit,Tier2,Manual Review,0,0,NA
+6,No Hit,Tier2,Manual Review,0,0,NA
+7,No Hit,Tier2,Manual Review,0,0,NA
+8,No Hit,Tier2,Manual Review,0,0,NA
+9,No Hit,Tier2,Manual Review,0,0,NA
+10,No Hit,Tier2,Manual Review,0,0,NA
+1,Thick,Tier3,Approve,1500000,18,36 Months
+2,Thick,Tier3,Approve,1500000,20,24 Months
+3,Thick,Tier3,Approve,700000,22,24 Months
+4,Thick,Tier3,Manual Review,700000,25,18 Months
+5,Thick,Tier3,Manual Review,500000,26,18 Months
+6,Thick,Tier3,Manual Review,500000,27,12 Months
+7,Thick,Tier3,Manual Review,300000,27,12 Months
+8,Thick,Tier3,Decline,0,0,NA
+9,Thick,Tier3,Decline,0,0,NA
+10,Thick,Tier3,Decline,0,0,NA
+1,Thin,Tier3,Approve,500000,19,24 Months
+2,Thin,Tier3,Approve,500000,21,24 Months
+3,Thin,Tier3,Manual Review,400000,24,18 Months
+4,Thin,Tier3,Manual Review,400000,27,18 Months
+5,Thin,Tier3,Manual Review,300000,28,12 Months
+6,Thin,Tier3,Manual Review,200000,30,12 Months
+7,Thin,Tier3,Manual Review,100000,30,12 Months
+8,Thin,Tier3,Manual Review,100000,30,12 Months
+9,Thin,Tier3,Decline,0,0,NA
+10,Thin,Tier3,Decline,0,0,NA
+1,No Hit,Tier3,Manual Review,0,0,NA
+2,No Hit,Tier3,Manual Review,0,0,NA
+3,No Hit,Tier3,Manual Review,0,0,NA
+4,No Hit,Tier3,Manual Review,0,0,NA
+5,No Hit,Tier3,Manual Review,0,0,NA
+6,No Hit,Tier3,Manual Review,0,0,NA
+7,No Hit,Tier3,Manual Review,0,0,NA
+8,No Hit,Tier3,Manual Review,0,0,NA
+9,No Hit,Tier3,Manual Review,0,0,NA
+10,No Hit,Tier3,Manual Review,0,0,NA
+1,Thick,Tier4,Manual Review,1500000,18,36 Months
+2,Thick,Tier4,Manual Review,1500000,20,24 Months
+3,Thick,Tier4,Manual Review,700000,22,24 Months
+4,Thick,Tier4,Decline,0,0,18 Months
+5,Thick,Tier4,Decline,0,0,18 Months
+6,Thick,Tier4,Decline,0,0,12 Months
+7,Thick,Tier4,Decline,0,0,12 Months
+8,Thick,Tier4,Decline,0,0,NA
+9,Thick,Tier4,Decline,0,0,NA
+10,Thick,Tier4,Decline,0,0,NA
+1,Thin,Tier4,Manual Review,500000,19,24 Months
+2,Thin,Tier4,Manual Review,500000,21,24 Months
+3,Thin,Tier4,Decline,0,0,18 Months
+4,Thin,Tier4,Decline,0,0,18 Months
+5,Thin,Tier4,Decline,0,0,12 Months
+6,Thin,Tier4,Decline,0,0,12 Months
+7,Thin,Tier4,Decline,0,0,12 Months
+8,Thin,Tier4,Decline,0,0,12 Months
+9,Thin,Tier4,Decline,0,0,NA
+10,Thin,Tier4,Decline,0,0,NA
+1,No Hit,Tier4,Decline,0,0,NA
+2,No Hit,Tier4,Decline,0,0,NA
+3,No Hit,Tier4,Decline,0,0,NA
+4,No Hit,Tier4,Decline,0,0,NA
+5,No Hit,Tier4,Decline,0,0,NA
+6,No Hit,Tier4,Decline,0,0,NA
+7,No Hit,Tier4,Decline,0,0,NA
+8,No Hit,Tier4,Decline,0,0,NA
+9,No Hit,Tier4,Decline,0,0,NA
+10,No Hit,Tier4,Decline,0,0,NA

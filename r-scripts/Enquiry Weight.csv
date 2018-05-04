@@ -1,0 +1,37 @@
+purpose,risk_weight
+Business Loan – Priority Sector – Agriculture,10
+Overdraft,10
+Consumer Loan,10
+Business Loan – Priority Sector – Small Business,10
+Auto Loan (Personal),10
+Business Non-Funded Credit Facility – Priority Sector – Agriculture,8
+Secured Credit Card,8
+Kisan Credit Card,8
+Microfinance – Personal Loan,8
+Business Non-Funded Credit Facility – General,8
+Microfinance – Housing Loan,8
+Personal Loan,5
+Business Loan – General,5
+Business Loan – Priority Sector – Others,5
+Two-wheeler Loan,5
+Credit Card,5
+Housing Loan,5
+Property Loan,5
+Other,5
+Commercial Vehicle Loan,2
+Gold Loan,2
+Leasing,1
+Tractor Loan,1
+Microfinance – Other,1
+Loan to Professional,1
+Microfinance – Business Loan,1
+Used Car Loan,1
+Non-Funded Credit Facility,1
+Construction Equipment Loan,1
+Business Non-Funded Credit Facility – Priority Sector- Others,1
+Business Loan Against Bank Deposits,1
+Corporate Credit Card,1
+Loan Against Bank Deposits,1
+Business Non-Funded Credit Facility – Priority Sector – Small Business,1
+Education Loan,1
+Loan Against Shares/Securities,1

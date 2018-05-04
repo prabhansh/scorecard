@@ -1,0 +1,3601 @@
+Anchor,FileType,Tier,ScoreBand,VerticalBand,MinAnchorVintage,LoanCap,AnchorSalesMultiplier,LoanTenure,MinAnchorSales,ModelDecision
+swiggy,thick,tier1,1,1,6,500000,7,12,25000,Approve
+swiggy,thick,tier1,1,2,6,500000,6,12,30000,Approve
+swiggy,thick,tier1,1,3,6,400000,6,12,35000,Approve
+swiggy,thick,tier1,1,4,9,400000,4,9,40000,Approve
+swiggy,thick,tier1,1,5,12,200000,2,6,45000,Approve
+swiggy,thick,tier1,1,6,12,200000,2,6,50000,Approve
+swiggy,thick,tier1,1,7,12,200000,1.5,6,55000,Approve
+swiggy,thick,tier1,1,8,12,200000,1.5,6,60000,Approve
+swiggy,thick,tier1,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,2,1,6,500000,6,12,25000,Approve
+swiggy,thick,tier1,2,2,6,400000,5,12,30000,Approve
+swiggy,thick,tier1,2,3,6,400000,5,12,35000,Approve
+swiggy,thick,tier1,2,4,9,300000,3,9,40000,Approve
+swiggy,thick,tier1,2,5,12,200000,2,6,45000,Approve
+swiggy,thick,tier1,2,6,12,200000,2,6,50000,Approve
+swiggy,thick,tier1,2,7,12,200000,1.5,6,55000,Approve
+swiggy,thick,tier1,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,3,1,9,300000,4,9,35000,Approve
+swiggy,thick,tier1,3,2,9,300000,3,9,40000,Approve
+swiggy,thick,tier1,3,3,9,300000,3,9,45000,Approve
+swiggy,thick,tier1,3,4,12,200000,2,6,50000,Approve
+swiggy,thick,tier1,3,5,12,200000,2,6,55000,Approve
+swiggy,thick,tier1,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,4,1,9,200000,3,6,45000,Approve
+swiggy,thick,tier1,4,2,9,200000,2,6,50000,Approve
+swiggy,thick,tier1,4,3,9,200000,2,6,55000,Approve
+swiggy,thick,tier1,4,4,12,200000,2,6,60000,Approve
+swiggy,thick,tier1,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,5,1,12,200000,2,6,50000,Approve
+swiggy,thick,tier1,5,2,12,200000,2,6,55000,Approve
+swiggy,thick,tier1,5,3,12,200000,2,6,60000,Approve
+swiggy,thick,tier1,5,4,12,200000,1.5,6,65000,Approve
+swiggy,thick,tier1,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,6,1,12,200000,2,6,55000,Approve
+swiggy,thick,tier1,6,2,12,200000,2,6,60000,Approve
+swiggy,thick,tier1,6,3,12,200000,2,6,65000,Approve
+swiggy,thick,tier1,6,4,12,200000,1.5,6,70000,Approve
+swiggy,thick,tier1,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,7,1,12,200000,2,6,75000,Approve
+swiggy,thick,tier1,7,2,12,200000,2,6,75000,Approve
+swiggy,thick,tier1,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier1,10,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,1,1,6,500000,7,12,25000,Approve
+swiggy,thick,tier2,1,2,6,500000,6,12,30000,Approve
+swiggy,thick,tier2,1,3,6,400000,6,12,35000,Approve
+swiggy,thick,tier2,1,4,9,400000,4,9,40000,Approve
+swiggy,thick,tier2,1,5,12,200000,2,6,45000,Approve
+swiggy,thick,tier2,1,6,12,200000,2,6,50000,Approve
+swiggy,thick,tier2,1,7,12,200000,1.5,6,55000,Approve
+swiggy,thick,tier2,1,8,12,200000,1.5,6,60000,Approve
+swiggy,thick,tier2,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,2,1,6,500000,6,12,25000,Approve
+swiggy,thick,tier2,2,2,6,400000,5,12,30000,Approve
+swiggy,thick,tier2,2,3,6,400000,5,12,35000,Approve
+swiggy,thick,tier2,2,4,9,300000,3,9,40000,Approve
+swiggy,thick,tier2,2,5,12,200000,2,6,45000,Approve
+swiggy,thick,tier2,2,6,12,200000,2,6,50000,Approve
+swiggy,thick,tier2,2,7,12,200000,1.5,6,55000,Approve
+swiggy,thick,tier2,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,3,1,9,300000,4,9,35000,Approve
+swiggy,thick,tier2,3,2,9,300000,3,9,40000,Approve
+swiggy,thick,tier2,3,3,9,300000,3,9,45000,Approve
+swiggy,thick,tier2,3,4,12,200000,2,6,50000,Approve
+swiggy,thick,tier2,3,5,12,200000,2,6,55000,Approve
+swiggy,thick,tier2,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,4,1,9,200000,3,6,45000,Approve
+swiggy,thick,tier2,4,2,9,200000,2,6,50000,Approve
+swiggy,thick,tier2,4,3,9,200000,2,6,55000,Approve
+swiggy,thick,tier2,4,4,12,200000,2,6,60000,Approve
+swiggy,thick,tier2,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,5,1,12,200000,2,6,50000,Approve
+swiggy,thick,tier2,5,2,12,200000,2,6,55000,Approve
+swiggy,thick,tier2,5,3,12,200000,2,6,60000,Approve
+swiggy,thick,tier2,5,4,12,200000,1.5,6,65000,Approve
+swiggy,thick,tier2,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,6,1,12,200000,2,6,55000,Approve
+swiggy,thick,tier2,6,2,12,200000,2,6,60000,Approve
+swiggy,thick,tier2,6,3,12,200000,2,6,65000,Approve
+swiggy,thick,tier2,6,4,12,200000,1.5,6,70000,Approve
+swiggy,thick,tier2,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,7,1,12,200000,2,6,75000,Approve
+swiggy,thick,tier2,7,2,12,200000,2,6,75000,Approve
+swiggy,thick,tier2,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier2,10,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,1,1,6,500000,7,12,25000,Approve
+swiggy,thick,tier3,1,2,6,500000,6,12,30000,Approve
+swiggy,thick,tier3,1,3,6,400000,6,12,35000,Approve
+swiggy,thick,tier3,1,4,9,400000,4,9,40000,Approve
+swiggy,thick,tier3,1,5,12,200000,2,6,45000,Approve
+swiggy,thick,tier3,1,6,12,200000,2,6,50000,Approve
+swiggy,thick,tier3,1,7,12,200000,1.5,6,55000,Approve
+swiggy,thick,tier3,1,8,12,200000,1.5,6,60000,Approve
+swiggy,thick,tier3,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,2,1,6,500000,6,12,25000,Approve
+swiggy,thick,tier3,2,2,6,400000,5,12,30000,Approve
+swiggy,thick,tier3,2,3,6,400000,5,12,35000,Approve
+swiggy,thick,tier3,2,4,9,300000,3,9,40000,Approve
+swiggy,thick,tier3,2,5,12,200000,2,6,45000,Approve
+swiggy,thick,tier3,2,6,12,200000,2,6,50000,Approve
+swiggy,thick,tier3,2,7,12,200000,1.5,6,55000,Approve
+swiggy,thick,tier3,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,3,1,9,300000,4,9,35000,Approve
+swiggy,thick,tier3,3,2,9,300000,3,9,40000,Approve
+swiggy,thick,tier3,3,3,9,300000,3,9,45000,Approve
+swiggy,thick,tier3,3,4,12,200000,2,6,50000,Approve
+swiggy,thick,tier3,3,5,12,200000,2,6,55000,Approve
+swiggy,thick,tier3,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,4,1,9,200000,3,6,45000,Approve
+swiggy,thick,tier3,4,2,9,200000,2,6,50000,Approve
+swiggy,thick,tier3,4,3,9,200000,2,6,55000,Approve
+swiggy,thick,tier3,4,4,12,200000,2,6,60000,Approve
+swiggy,thick,tier3,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,5,1,12,200000,2,6,50000,Approve
+swiggy,thick,tier3,5,2,12,200000,2,6,55000,Approve
+swiggy,thick,tier3,5,3,12,200000,2,6,60000,Approve
+swiggy,thick,tier3,5,4,12,200000,1.5,6,65000,Approve
+swiggy,thick,tier3,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,6,1,12,200000,2,6,55000,Approve
+swiggy,thick,tier3,6,2,12,200000,2,6,60000,Approve
+swiggy,thick,tier3,6,3,12,200000,2,6,65000,Approve
+swiggy,thick,tier3,6,4,12,200000,1.5,6,70000,Approve
+swiggy,thick,tier3,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,7,1,12,200000,2,6,75000,Approve
+swiggy,thick,tier3,7,2,12,200000,2,6,75000,Approve
+swiggy,thick,tier3,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier3,10,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,1,1,6,500000,7,12,25000,Approve
+swiggy,thick,tier4,1,2,6,500000,6,12,30000,Approve
+swiggy,thick,tier4,1,3,6,400000,6,12,35000,Approve
+swiggy,thick,tier4,1,4,9,400000,4,9,40000,Approve
+swiggy,thick,tier4,1,5,12,200000,2,6,45000,Approve
+swiggy,thick,tier4,1,6,12,200000,2,6,50000,Approve
+swiggy,thick,tier4,1,7,12,200000,1.5,6,55000,Approve
+swiggy,thick,tier4,1,8,12,200000,1.5,6,60000,Approve
+swiggy,thick,tier4,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,2,1,6,500000,6,12,25000,Approve
+swiggy,thick,tier4,2,2,6,400000,5,12,30000,Approve
+swiggy,thick,tier4,2,3,6,400000,5,12,35000,Approve
+swiggy,thick,tier4,2,4,9,300000,3,9,40000,Approve
+swiggy,thick,tier4,2,5,12,200000,2,6,45000,Approve
+swiggy,thick,tier4,2,6,12,200000,2,6,50000,Approve
+swiggy,thick,tier4,2,7,12,200000,1.5,6,55000,Approve
+swiggy,thick,tier4,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,3,1,9,300000,4,9,35000,Approve
+swiggy,thick,tier4,3,2,9,300000,3,9,40000,Approve
+swiggy,thick,tier4,3,3,9,300000,3,9,45000,Approve
+swiggy,thick,tier4,3,4,12,200000,2,6,50000,Approve
+swiggy,thick,tier4,3,5,12,200000,2,6,55000,Approve
+swiggy,thick,tier4,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,4,1,9,200000,3,6,45000,Approve
+swiggy,thick,tier4,4,2,9,200000,2,6,50000,Approve
+swiggy,thick,tier4,4,3,9,200000,2,6,55000,Approve
+swiggy,thick,tier4,4,4,12,200000,2,6,60000,Approve
+swiggy,thick,tier4,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,5,1,12,200000,2,6,50000,Approve
+swiggy,thick,tier4,5,2,12,200000,2,6,55000,Approve
+swiggy,thick,tier4,5,3,12,200000,2,6,60000,Approve
+swiggy,thick,tier4,5,4,12,200000,1.5,6,65000,Approve
+swiggy,thick,tier4,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,6,1,12,200000,2,6,55000,Approve
+swiggy,thick,tier4,6,2,12,200000,2,6,60000,Approve
+swiggy,thick,tier4,6,3,12,200000,2,6,65000,Approve
+swiggy,thick,tier4,6,4,12,200000,1.5,6,70000,Approve
+swiggy,thick,tier4,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,7,1,12,200000,2,6,75000,Approve
+swiggy,thick,tier4,7,2,12,200000,2,6,75000,Approve
+swiggy,thick,tier4,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,thick,tier4,10,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,1,1,6,500000,7,12,25000,Approve
+swiggy,thin,tier1,1,2,6,500000,6,12,30000,Approve
+swiggy,thin,tier1,1,3,6,400000,6,12,35000,Approve
+swiggy,thin,tier1,1,4,9,400000,4,9,40000,Approve
+swiggy,thin,tier1,1,5,12,200000,2,6,45000,Approve
+swiggy,thin,tier1,1,6,12,200000,2,6,50000,Approve
+swiggy,thin,tier1,1,7,12,200000,1.5,6,55000,Approve
+swiggy,thin,tier1,1,8,12,200000,1.5,6,60000,Approve
+swiggy,thin,tier1,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,2,1,6,500000,6,12,25000,Approve
+swiggy,thin,tier1,2,2,6,400000,5,12,30000,Approve
+swiggy,thin,tier1,2,3,6,400000,5,12,35000,Approve
+swiggy,thin,tier1,2,4,9,300000,3,9,40000,Approve
+swiggy,thin,tier1,2,5,12,200000,2,6,45000,Approve
+swiggy,thin,tier1,2,6,12,200000,2,6,50000,Approve
+swiggy,thin,tier1,2,7,12,200000,1.5,6,55000,Approve
+swiggy,thin,tier1,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,3,1,9,300000,4,9,35000,Approve
+swiggy,thin,tier1,3,2,9,300000,3,9,40000,Approve
+swiggy,thin,tier1,3,3,9,300000,3,9,45000,Approve
+swiggy,thin,tier1,3,4,12,200000,2,6,50000,Approve
+swiggy,thin,tier1,3,5,12,200000,2,6,55000,Approve
+swiggy,thin,tier1,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,4,1,9,200000,3,6,45000,Approve
+swiggy,thin,tier1,4,2,9,200000,2,6,50000,Approve
+swiggy,thin,tier1,4,3,9,200000,2,6,55000,Approve
+swiggy,thin,tier1,4,4,12,200000,2,6,60000,Approve
+swiggy,thin,tier1,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,5,1,12,200000,2,6,50000,Approve
+swiggy,thin,tier1,5,2,12,200000,2,6,55000,Approve
+swiggy,thin,tier1,5,3,12,200000,2,6,60000,Approve
+swiggy,thin,tier1,5,4,12,200000,1.5,6,65000,Approve
+swiggy,thin,tier1,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,6,1,12,200000,2,6,55000,Approve
+swiggy,thin,tier1,6,2,12,200000,2,6,60000,Approve
+swiggy,thin,tier1,6,3,12,200000,2,6,65000,Approve
+swiggy,thin,tier1,6,4,12,200000,1.5,6,70000,Approve
+swiggy,thin,tier1,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,7,1,12,200000,2,6,75000,Approve
+swiggy,thin,tier1,7,2,12,200000,2,6,75000,Approve
+swiggy,thin,tier1,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier1,10,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,1,1,6,500000,7,12,25000,Approve
+swiggy,thin,tier2,1,2,6,500000,6,12,30000,Approve
+swiggy,thin,tier2,1,3,6,400000,6,12,35000,Approve
+swiggy,thin,tier2,1,4,9,400000,4,9,40000,Approve
+swiggy,thin,tier2,1,5,12,200000,2,6,45000,Approve
+swiggy,thin,tier2,1,6,12,200000,2,6,50000,Approve
+swiggy,thin,tier2,1,7,12,200000,1.5,6,55000,Approve
+swiggy,thin,tier2,1,8,12,200000,1.5,6,60000,Approve
+swiggy,thin,tier2,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,2,1,6,500000,6,12,25000,Approve
+swiggy,thin,tier2,2,2,6,400000,5,12,30000,Approve
+swiggy,thin,tier2,2,3,6,400000,5,12,35000,Approve
+swiggy,thin,tier2,2,4,9,300000,3,9,40000,Approve
+swiggy,thin,tier2,2,5,12,200000,2,6,45000,Approve
+swiggy,thin,tier2,2,6,12,200000,2,6,50000,Approve
+swiggy,thin,tier2,2,7,12,200000,1.5,6,55000,Approve
+swiggy,thin,tier2,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,3,1,9,300000,4,9,35000,Approve
+swiggy,thin,tier2,3,2,9,300000,3,9,40000,Approve
+swiggy,thin,tier2,3,3,9,300000,3,9,45000,Approve
+swiggy,thin,tier2,3,4,12,200000,2,6,50000,Approve
+swiggy,thin,tier2,3,5,12,200000,2,6,55000,Approve
+swiggy,thin,tier2,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,4,1,9,200000,3,6,45000,Approve
+swiggy,thin,tier2,4,2,9,200000,2,6,50000,Approve
+swiggy,thin,tier2,4,3,9,200000,2,6,55000,Approve
+swiggy,thin,tier2,4,4,12,200000,2,6,60000,Approve
+swiggy,thin,tier2,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,5,1,12,200000,2,6,50000,Approve
+swiggy,thin,tier2,5,2,12,200000,2,6,55000,Approve
+swiggy,thin,tier2,5,3,12,200000,2,6,60000,Approve
+swiggy,thin,tier2,5,4,12,200000,1.5,6,65000,Approve
+swiggy,thin,tier2,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,6,1,12,200000,2,6,55000,Approve
+swiggy,thin,tier2,6,2,12,200000,2,6,60000,Approve
+swiggy,thin,tier2,6,3,12,200000,2,6,65000,Approve
+swiggy,thin,tier2,6,4,12,200000,1.5,6,70000,Approve
+swiggy,thin,tier2,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,7,1,12,200000,2,6,75000,Approve
+swiggy,thin,tier2,7,2,12,200000,2,6,75000,Approve
+swiggy,thin,tier2,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier2,10,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,1,1,6,500000,7,12,25000,Approve
+swiggy,thin,tier3,1,2,6,500000,6,12,30000,Approve
+swiggy,thin,tier3,1,3,6,400000,6,12,35000,Approve
+swiggy,thin,tier3,1,4,9,400000,4,9,40000,Approve
+swiggy,thin,tier3,1,5,12,200000,2,6,45000,Approve
+swiggy,thin,tier3,1,6,12,200000,2,6,50000,Approve
+swiggy,thin,tier3,1,7,12,200000,1.5,6,55000,Approve
+swiggy,thin,tier3,1,8,12,200000,1.5,6,60000,Approve
+swiggy,thin,tier3,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,2,1,6,500000,6,12,25000,Approve
+swiggy,thin,tier3,2,2,6,400000,5,12,30000,Approve
+swiggy,thin,tier3,2,3,6,400000,5,12,35000,Approve
+swiggy,thin,tier3,2,4,9,300000,3,9,40000,Approve
+swiggy,thin,tier3,2,5,12,200000,2,6,45000,Approve
+swiggy,thin,tier3,2,6,12,200000,2,6,50000,Approve
+swiggy,thin,tier3,2,7,12,200000,1.5,6,55000,Approve
+swiggy,thin,tier3,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,3,1,9,300000,4,9,35000,Approve
+swiggy,thin,tier3,3,2,9,300000,3,9,40000,Approve
+swiggy,thin,tier3,3,3,9,300000,3,9,45000,Approve
+swiggy,thin,tier3,3,4,12,200000,2,6,50000,Approve
+swiggy,thin,tier3,3,5,12,200000,2,6,55000,Approve
+swiggy,thin,tier3,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,4,1,9,200000,3,6,45000,Approve
+swiggy,thin,tier3,4,2,9,200000,2,6,50000,Approve
+swiggy,thin,tier3,4,3,9,200000,2,6,55000,Approve
+swiggy,thin,tier3,4,4,12,200000,2,6,60000,Approve
+swiggy,thin,tier3,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,5,1,12,200000,2,6,50000,Approve
+swiggy,thin,tier3,5,2,12,200000,2,6,55000,Approve
+swiggy,thin,tier3,5,3,12,200000,2,6,60000,Approve
+swiggy,thin,tier3,5,4,12,200000,1.5,6,65000,Approve
+swiggy,thin,tier3,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,6,1,12,200000,2,6,55000,Approve
+swiggy,thin,tier3,6,2,12,200000,2,6,60000,Approve
+swiggy,thin,tier3,6,3,12,200000,2,6,65000,Approve
+swiggy,thin,tier3,6,4,12,200000,1.5,6,70000,Approve
+swiggy,thin,tier3,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,7,1,12,200000,2,6,75000,Approve
+swiggy,thin,tier3,7,2,12,200000,2,6,75000,Approve
+swiggy,thin,tier3,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier3,10,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,1,1,6,500000,7,12,25000,Approve
+swiggy,thin,tier4,1,2,6,500000,6,12,30000,Approve
+swiggy,thin,tier4,1,3,6,400000,6,12,35000,Approve
+swiggy,thin,tier4,1,4,9,400000,4,9,40000,Approve
+swiggy,thin,tier4,1,5,12,200000,2,6,45000,Approve
+swiggy,thin,tier4,1,6,12,200000,2,6,50000,Approve
+swiggy,thin,tier4,1,7,12,200000,1.5,6,55000,Approve
+swiggy,thin,tier4,1,8,12,200000,1.5,6,60000,Approve
+swiggy,thin,tier4,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,2,1,6,500000,6,12,25000,Approve
+swiggy,thin,tier4,2,2,6,400000,5,12,30000,Approve
+swiggy,thin,tier4,2,3,6,400000,5,12,35000,Approve
+swiggy,thin,tier4,2,4,9,300000,3,9,40000,Approve
+swiggy,thin,tier4,2,5,12,200000,2,6,45000,Approve
+swiggy,thin,tier4,2,6,12,200000,2,6,50000,Approve
+swiggy,thin,tier4,2,7,12,200000,1.5,6,55000,Approve
+swiggy,thin,tier4,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,3,1,9,300000,4,9,35000,Approve
+swiggy,thin,tier4,3,2,9,300000,3,9,40000,Approve
+swiggy,thin,tier4,3,3,9,300000,3,9,45000,Approve
+swiggy,thin,tier4,3,4,12,200000,2,6,50000,Approve
+swiggy,thin,tier4,3,5,12,200000,2,6,55000,Approve
+swiggy,thin,tier4,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,4,1,9,200000,3,6,45000,Approve
+swiggy,thin,tier4,4,2,9,200000,2,6,50000,Approve
+swiggy,thin,tier4,4,3,9,200000,2,6,55000,Approve
+swiggy,thin,tier4,4,4,12,200000,2,6,60000,Approve
+swiggy,thin,tier4,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,5,1,12,200000,2,6,50000,Approve
+swiggy,thin,tier4,5,2,12,200000,2,6,55000,Approve
+swiggy,thin,tier4,5,3,12,200000,2,6,60000,Approve
+swiggy,thin,tier4,5,4,12,200000,1.5,6,65000,Approve
+swiggy,thin,tier4,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,6,1,12,200000,2,6,55000,Approve
+swiggy,thin,tier4,6,2,12,200000,2,6,60000,Approve
+swiggy,thin,tier4,6,3,12,200000,2,6,65000,Approve
+swiggy,thin,tier4,6,4,12,200000,1.5,6,70000,Approve
+swiggy,thin,tier4,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,7,1,12,200000,2,6,75000,Approve
+swiggy,thin,tier4,7,2,12,200000,2,6,75000,Approve
+swiggy,thin,tier4,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,thin,tier4,10,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,1,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,1,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,1,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,1,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,1,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,1,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,1,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,1,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,2,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,2,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,2,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,2,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,2,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,2,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,2,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,3,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,3,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,3,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,3,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,3,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,4,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,4,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,4,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,4,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,5,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,5,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,5,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,5,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,6,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,6,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,6,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,6,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,7,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,7,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier1,10,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,1,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,1,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,1,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,1,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,1,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,1,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,1,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,1,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,2,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,2,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,2,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,2,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,2,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,2,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,2,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,3,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,3,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,3,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,3,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,3,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,4,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,4,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,4,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,4,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,5,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,5,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,5,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,5,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,6,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,6,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,6,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,6,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,7,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,7,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier2,10,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,1,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,1,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,1,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,1,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,1,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,1,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,1,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,1,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,2,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,2,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,2,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,2,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,2,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,2,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,2,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,3,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,3,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,3,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,3,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,3,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,4,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,4,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,4,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,4,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,5,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,5,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,5,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,5,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,6,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,6,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,6,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,6,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,7,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,7,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier3,10,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,1,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,1,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,1,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,1,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,1,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,1,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,1,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,1,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,1,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,1,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,2,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,2,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,2,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,2,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,2,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,2,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,2,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,2,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,2,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,2,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,3,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,3,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,3,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,3,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,3,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,3,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,3,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,3,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,3,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,3,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,4,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,4,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,4,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,4,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,4,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,4,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,4,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,4,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,4,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,4,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,5,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,5,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,5,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,5,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,5,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,5,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,5,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,5,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,5,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,5,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,6,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,6,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,6,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,6,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,6,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,6,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,6,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,6,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,6,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,6,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,7,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,7,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,7,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,7,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,7,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,7,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,7,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,7,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,7,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,7,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,8,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,8,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,8,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,8,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,8,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,8,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,8,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,8,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,8,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,8,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,9,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,9,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,9,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,9,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,9,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,9,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,9,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,9,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,9,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,9,10,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,10,1,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,10,2,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,10,3,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,10,4,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,10,5,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,10,6,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,10,7,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,10,8,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,10,9,NA,NA,NA,NA,NA,Decline
+swiggy,no hit,tier4,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,1,1,6,500000,7,12,25000,Approve
+foodpanda,thick,tier1,1,2,6,500000,6,12,30000,Approve
+foodpanda,thick,tier1,1,3,6,400000,6,12,35000,Approve
+foodpanda,thick,tier1,1,4,9,400000,4,9,40000,Approve
+foodpanda,thick,tier1,1,5,12,200000,2,6,45000,Approve
+foodpanda,thick,tier1,1,6,12,200000,2,6,50000,Approve
+foodpanda,thick,tier1,1,7,12,200000,1.5,6,55000,Approve
+foodpanda,thick,tier1,1,8,12,200000,1.5,6,60000,Approve
+foodpanda,thick,tier1,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,2,1,6,500000,6,12,25000,Approve
+foodpanda,thick,tier1,2,2,6,400000,5,12,30000,Approve
+foodpanda,thick,tier1,2,3,6,400000,5,12,35000,Approve
+foodpanda,thick,tier1,2,4,9,300000,3,9,40000,Approve
+foodpanda,thick,tier1,2,5,12,200000,2,6,45000,Approve
+foodpanda,thick,tier1,2,6,12,200000,2,6,50000,Approve
+foodpanda,thick,tier1,2,7,12,200000,1.5,6,55000,Approve
+foodpanda,thick,tier1,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,3,1,9,300000,4,9,35000,Approve
+foodpanda,thick,tier1,3,2,9,300000,3,9,40000,Approve
+foodpanda,thick,tier1,3,3,9,300000,3,9,45000,Approve
+foodpanda,thick,tier1,3,4,12,200000,2,6,50000,Approve
+foodpanda,thick,tier1,3,5,12,200000,2,6,55000,Approve
+foodpanda,thick,tier1,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,4,1,9,200000,3,6,45000,Approve
+foodpanda,thick,tier1,4,2,9,200000,2,6,50000,Approve
+foodpanda,thick,tier1,4,3,9,200000,2,6,55000,Approve
+foodpanda,thick,tier1,4,4,12,200000,2,6,60000,Approve
+foodpanda,thick,tier1,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,5,1,12,200000,2,6,50000,Approve
+foodpanda,thick,tier1,5,2,12,200000,2,6,55000,Approve
+foodpanda,thick,tier1,5,3,12,200000,2,6,60000,Approve
+foodpanda,thick,tier1,5,4,12,200000,1.5,6,65000,Approve
+foodpanda,thick,tier1,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,6,1,12,200000,2,6,55000,Approve
+foodpanda,thick,tier1,6,2,12,200000,2,6,60000,Approve
+foodpanda,thick,tier1,6,3,12,200000,2,6,65000,Approve
+foodpanda,thick,tier1,6,4,12,200000,1.5,6,70000,Approve
+foodpanda,thick,tier1,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,7,1,12,200000,2,6,75000,Approve
+foodpanda,thick,tier1,7,2,12,200000,2,6,75000,Approve
+foodpanda,thick,tier1,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier1,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,1,1,6,500000,7,12,25000,Approve
+foodpanda,thick,tier2,1,2,6,500000,6,12,30000,Approve
+foodpanda,thick,tier2,1,3,6,400000,6,12,35000,Approve
+foodpanda,thick,tier2,1,4,9,400000,4,9,40000,Approve
+foodpanda,thick,tier2,1,5,12,200000,2,6,45000,Approve
+foodpanda,thick,tier2,1,6,12,200000,2,6,50000,Approve
+foodpanda,thick,tier2,1,7,12,200000,1.5,6,55000,Approve
+foodpanda,thick,tier2,1,8,12,200000,1.5,6,60000,Approve
+foodpanda,thick,tier2,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,2,1,6,500000,6,12,25000,Approve
+foodpanda,thick,tier2,2,2,6,400000,5,12,30000,Approve
+foodpanda,thick,tier2,2,3,6,400000,5,12,35000,Approve
+foodpanda,thick,tier2,2,4,9,300000,3,9,40000,Approve
+foodpanda,thick,tier2,2,5,12,200000,2,6,45000,Approve
+foodpanda,thick,tier2,2,6,12,200000,2,6,50000,Approve
+foodpanda,thick,tier2,2,7,12,200000,1.5,6,55000,Approve
+foodpanda,thick,tier2,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,3,1,9,300000,4,9,35000,Approve
+foodpanda,thick,tier2,3,2,9,300000,3,9,40000,Approve
+foodpanda,thick,tier2,3,3,9,300000,3,9,45000,Approve
+foodpanda,thick,tier2,3,4,12,200000,2,6,50000,Approve
+foodpanda,thick,tier2,3,5,12,200000,2,6,55000,Approve
+foodpanda,thick,tier2,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,4,1,9,200000,3,6,45000,Approve
+foodpanda,thick,tier2,4,2,9,200000,2,6,50000,Approve
+foodpanda,thick,tier2,4,3,9,200000,2,6,55000,Approve
+foodpanda,thick,tier2,4,4,12,200000,2,6,60000,Approve
+foodpanda,thick,tier2,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,5,1,12,200000,2,6,50000,Approve
+foodpanda,thick,tier2,5,2,12,200000,2,6,55000,Approve
+foodpanda,thick,tier2,5,3,12,200000,2,6,60000,Approve
+foodpanda,thick,tier2,5,4,12,200000,1.5,6,65000,Approve
+foodpanda,thick,tier2,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,6,1,12,200000,2,6,55000,Approve
+foodpanda,thick,tier2,6,2,12,200000,2,6,60000,Approve
+foodpanda,thick,tier2,6,3,12,200000,2,6,65000,Approve
+foodpanda,thick,tier2,6,4,12,200000,1.5,6,70000,Approve
+foodpanda,thick,tier2,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,7,1,12,200000,2,6,75000,Approve
+foodpanda,thick,tier2,7,2,12,200000,2,6,75000,Approve
+foodpanda,thick,tier2,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier2,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,1,1,6,500000,7,12,25000,Approve
+foodpanda,thick,tier3,1,2,6,500000,6,12,30000,Approve
+foodpanda,thick,tier3,1,3,6,400000,6,12,35000,Approve
+foodpanda,thick,tier3,1,4,9,400000,4,9,40000,Approve
+foodpanda,thick,tier3,1,5,12,200000,2,6,45000,Approve
+foodpanda,thick,tier3,1,6,12,200000,2,6,50000,Approve
+foodpanda,thick,tier3,1,7,12,200000,1.5,6,55000,Approve
+foodpanda,thick,tier3,1,8,12,200000,1.5,6,60000,Approve
+foodpanda,thick,tier3,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,2,1,6,500000,6,12,25000,Approve
+foodpanda,thick,tier3,2,2,6,400000,5,12,30000,Approve
+foodpanda,thick,tier3,2,3,6,400000,5,12,35000,Approve
+foodpanda,thick,tier3,2,4,9,300000,3,9,40000,Approve
+foodpanda,thick,tier3,2,5,12,200000,2,6,45000,Approve
+foodpanda,thick,tier3,2,6,12,200000,2,6,50000,Approve
+foodpanda,thick,tier3,2,7,12,200000,1.5,6,55000,Approve
+foodpanda,thick,tier3,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,3,1,9,300000,4,9,35000,Approve
+foodpanda,thick,tier3,3,2,9,300000,3,9,40000,Approve
+foodpanda,thick,tier3,3,3,9,300000,3,9,45000,Approve
+foodpanda,thick,tier3,3,4,12,200000,2,6,50000,Approve
+foodpanda,thick,tier3,3,5,12,200000,2,6,55000,Approve
+foodpanda,thick,tier3,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,4,1,9,200000,3,6,45000,Approve
+foodpanda,thick,tier3,4,2,9,200000,2,6,50000,Approve
+foodpanda,thick,tier3,4,3,9,200000,2,6,55000,Approve
+foodpanda,thick,tier3,4,4,12,200000,2,6,60000,Approve
+foodpanda,thick,tier3,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,5,1,12,200000,2,6,50000,Approve
+foodpanda,thick,tier3,5,2,12,200000,2,6,55000,Approve
+foodpanda,thick,tier3,5,3,12,200000,2,6,60000,Approve
+foodpanda,thick,tier3,5,4,12,200000,1.5,6,65000,Approve
+foodpanda,thick,tier3,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,6,1,12,200000,2,6,55000,Approve
+foodpanda,thick,tier3,6,2,12,200000,2,6,60000,Approve
+foodpanda,thick,tier3,6,3,12,200000,2,6,65000,Approve
+foodpanda,thick,tier3,6,4,12,200000,1.5,6,70000,Approve
+foodpanda,thick,tier3,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,7,1,12,200000,2,6,75000,Approve
+foodpanda,thick,tier3,7,2,12,200000,2,6,75000,Approve
+foodpanda,thick,tier3,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier3,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,1,1,6,500000,7,12,25000,Approve
+foodpanda,thick,tier4,1,2,6,500000,6,12,30000,Approve
+foodpanda,thick,tier4,1,3,6,400000,6,12,35000,Approve
+foodpanda,thick,tier4,1,4,9,400000,4,9,40000,Approve
+foodpanda,thick,tier4,1,5,12,200000,2,6,45000,Approve
+foodpanda,thick,tier4,1,6,12,200000,2,6,50000,Approve
+foodpanda,thick,tier4,1,7,12,200000,1.5,6,55000,Approve
+foodpanda,thick,tier4,1,8,12,200000,1.5,6,60000,Approve
+foodpanda,thick,tier4,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,2,1,6,500000,6,12,25000,Approve
+foodpanda,thick,tier4,2,2,6,400000,5,12,30000,Approve
+foodpanda,thick,tier4,2,3,6,400000,5,12,35000,Approve
+foodpanda,thick,tier4,2,4,9,300000,3,9,40000,Approve
+foodpanda,thick,tier4,2,5,12,200000,2,6,45000,Approve
+foodpanda,thick,tier4,2,6,12,200000,2,6,50000,Approve
+foodpanda,thick,tier4,2,7,12,200000,1.5,6,55000,Approve
+foodpanda,thick,tier4,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,3,1,9,300000,4,9,35000,Approve
+foodpanda,thick,tier4,3,2,9,300000,3,9,40000,Approve
+foodpanda,thick,tier4,3,3,9,300000,3,9,45000,Approve
+foodpanda,thick,tier4,3,4,12,200000,2,6,50000,Approve
+foodpanda,thick,tier4,3,5,12,200000,2,6,55000,Approve
+foodpanda,thick,tier4,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,4,1,9,200000,3,6,45000,Approve
+foodpanda,thick,tier4,4,2,9,200000,2,6,50000,Approve
+foodpanda,thick,tier4,4,3,9,200000,2,6,55000,Approve
+foodpanda,thick,tier4,4,4,12,200000,2,6,60000,Approve
+foodpanda,thick,tier4,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,5,1,12,200000,2,6,50000,Approve
+foodpanda,thick,tier4,5,2,12,200000,2,6,55000,Approve
+foodpanda,thick,tier4,5,3,12,200000,2,6,60000,Approve
+foodpanda,thick,tier4,5,4,12,200000,1.5,6,65000,Approve
+foodpanda,thick,tier4,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,6,1,12,200000,2,6,55000,Approve
+foodpanda,thick,tier4,6,2,12,200000,2,6,60000,Approve
+foodpanda,thick,tier4,6,3,12,200000,2,6,65000,Approve
+foodpanda,thick,tier4,6,4,12,200000,1.5,6,70000,Approve
+foodpanda,thick,tier4,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,7,1,12,200000,2,6,75000,Approve
+foodpanda,thick,tier4,7,2,12,200000,2,6,75000,Approve
+foodpanda,thick,tier4,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thick,tier4,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,1,1,6,500000,7,12,25000,Approve
+foodpanda,thin,tier1,1,2,6,500000,6,12,30000,Approve
+foodpanda,thin,tier1,1,3,6,400000,6,12,35000,Approve
+foodpanda,thin,tier1,1,4,9,400000,4,9,40000,Approve
+foodpanda,thin,tier1,1,5,12,200000,2,6,45000,Approve
+foodpanda,thin,tier1,1,6,12,200000,2,6,50000,Approve
+foodpanda,thin,tier1,1,7,12,200000,1.5,6,55000,Approve
+foodpanda,thin,tier1,1,8,12,200000,1.5,6,60000,Approve
+foodpanda,thin,tier1,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,2,1,6,500000,6,12,25000,Approve
+foodpanda,thin,tier1,2,2,6,400000,5,12,30000,Approve
+foodpanda,thin,tier1,2,3,6,400000,5,12,35000,Approve
+foodpanda,thin,tier1,2,4,9,300000,3,9,40000,Approve
+foodpanda,thin,tier1,2,5,12,200000,2,6,45000,Approve
+foodpanda,thin,tier1,2,6,12,200000,2,6,50000,Approve
+foodpanda,thin,tier1,2,7,12,200000,1.5,6,55000,Approve
+foodpanda,thin,tier1,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,3,1,9,300000,4,9,35000,Approve
+foodpanda,thin,tier1,3,2,9,300000,3,9,40000,Approve
+foodpanda,thin,tier1,3,3,9,300000,3,9,45000,Approve
+foodpanda,thin,tier1,3,4,12,200000,2,6,50000,Approve
+foodpanda,thin,tier1,3,5,12,200000,2,6,55000,Approve
+foodpanda,thin,tier1,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,4,1,9,200000,3,6,45000,Approve
+foodpanda,thin,tier1,4,2,9,200000,2,6,50000,Approve
+foodpanda,thin,tier1,4,3,9,200000,2,6,55000,Approve
+foodpanda,thin,tier1,4,4,12,200000,2,6,60000,Approve
+foodpanda,thin,tier1,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,5,1,12,200000,2,6,50000,Approve
+foodpanda,thin,tier1,5,2,12,200000,2,6,55000,Approve
+foodpanda,thin,tier1,5,3,12,200000,2,6,60000,Approve
+foodpanda,thin,tier1,5,4,12,200000,1.5,6,65000,Approve
+foodpanda,thin,tier1,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,6,1,12,200000,2,6,55000,Approve
+foodpanda,thin,tier1,6,2,12,200000,2,6,60000,Approve
+foodpanda,thin,tier1,6,3,12,200000,2,6,65000,Approve
+foodpanda,thin,tier1,6,4,12,200000,1.5,6,70000,Approve
+foodpanda,thin,tier1,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,7,1,12,200000,2,6,75000,Approve
+foodpanda,thin,tier1,7,2,12,200000,2,6,75000,Approve
+foodpanda,thin,tier1,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier1,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,1,1,6,500000,7,12,25000,Approve
+foodpanda,thin,tier2,1,2,6,500000,6,12,30000,Approve
+foodpanda,thin,tier2,1,3,6,400000,6,12,35000,Approve
+foodpanda,thin,tier2,1,4,9,400000,4,9,40000,Approve
+foodpanda,thin,tier2,1,5,12,200000,2,6,45000,Approve
+foodpanda,thin,tier2,1,6,12,200000,2,6,50000,Approve
+foodpanda,thin,tier2,1,7,12,200000,1.5,6,55000,Approve
+foodpanda,thin,tier2,1,8,12,200000,1.5,6,60000,Approve
+foodpanda,thin,tier2,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,2,1,6,500000,6,12,25000,Approve
+foodpanda,thin,tier2,2,2,6,400000,5,12,30000,Approve
+foodpanda,thin,tier2,2,3,6,400000,5,12,35000,Approve
+foodpanda,thin,tier2,2,4,9,300000,3,9,40000,Approve
+foodpanda,thin,tier2,2,5,12,200000,2,6,45000,Approve
+foodpanda,thin,tier2,2,6,12,200000,2,6,50000,Approve
+foodpanda,thin,tier2,2,7,12,200000,1.5,6,55000,Approve
+foodpanda,thin,tier2,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,3,1,9,300000,4,9,35000,Approve
+foodpanda,thin,tier2,3,2,9,300000,3,9,40000,Approve
+foodpanda,thin,tier2,3,3,9,300000,3,9,45000,Approve
+foodpanda,thin,tier2,3,4,12,200000,2,6,50000,Approve
+foodpanda,thin,tier2,3,5,12,200000,2,6,55000,Approve
+foodpanda,thin,tier2,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,4,1,9,200000,3,6,45000,Approve
+foodpanda,thin,tier2,4,2,9,200000,2,6,50000,Approve
+foodpanda,thin,tier2,4,3,9,200000,2,6,55000,Approve
+foodpanda,thin,tier2,4,4,12,200000,2,6,60000,Approve
+foodpanda,thin,tier2,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,5,1,12,200000,2,6,50000,Approve
+foodpanda,thin,tier2,5,2,12,200000,2,6,55000,Approve
+foodpanda,thin,tier2,5,3,12,200000,2,6,60000,Approve
+foodpanda,thin,tier2,5,4,12,200000,1.5,6,65000,Approve
+foodpanda,thin,tier2,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,6,1,12,200000,2,6,55000,Approve
+foodpanda,thin,tier2,6,2,12,200000,2,6,60000,Approve
+foodpanda,thin,tier2,6,3,12,200000,2,6,65000,Approve
+foodpanda,thin,tier2,6,4,12,200000,1.5,6,70000,Approve
+foodpanda,thin,tier2,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,7,1,12,200000,2,6,75000,Approve
+foodpanda,thin,tier2,7,2,12,200000,2,6,75000,Approve
+foodpanda,thin,tier2,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier2,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,1,1,6,500000,7,12,25000,Approve
+foodpanda,thin,tier3,1,2,6,500000,6,12,30000,Approve
+foodpanda,thin,tier3,1,3,6,400000,6,12,35000,Approve
+foodpanda,thin,tier3,1,4,9,400000,4,9,40000,Approve
+foodpanda,thin,tier3,1,5,12,200000,2,6,45000,Approve
+foodpanda,thin,tier3,1,6,12,200000,2,6,50000,Approve
+foodpanda,thin,tier3,1,7,12,200000,1.5,6,55000,Approve
+foodpanda,thin,tier3,1,8,12,200000,1.5,6,60000,Approve
+foodpanda,thin,tier3,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,2,1,6,500000,6,12,25000,Approve
+foodpanda,thin,tier3,2,2,6,400000,5,12,30000,Approve
+foodpanda,thin,tier3,2,3,6,400000,5,12,35000,Approve
+foodpanda,thin,tier3,2,4,9,300000,3,9,40000,Approve
+foodpanda,thin,tier3,2,5,12,200000,2,6,45000,Approve
+foodpanda,thin,tier3,2,6,12,200000,2,6,50000,Approve
+foodpanda,thin,tier3,2,7,12,200000,1.5,6,55000,Approve
+foodpanda,thin,tier3,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,3,1,9,300000,4,9,35000,Approve
+foodpanda,thin,tier3,3,2,9,300000,3,9,40000,Approve
+foodpanda,thin,tier3,3,3,9,300000,3,9,45000,Approve
+foodpanda,thin,tier3,3,4,12,200000,2,6,50000,Approve
+foodpanda,thin,tier3,3,5,12,200000,2,6,55000,Approve
+foodpanda,thin,tier3,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,4,1,9,200000,3,6,45000,Approve
+foodpanda,thin,tier3,4,2,9,200000,2,6,50000,Approve
+foodpanda,thin,tier3,4,3,9,200000,2,6,55000,Approve
+foodpanda,thin,tier3,4,4,12,200000,2,6,60000,Approve
+foodpanda,thin,tier3,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,5,1,12,200000,2,6,50000,Approve
+foodpanda,thin,tier3,5,2,12,200000,2,6,55000,Approve
+foodpanda,thin,tier3,5,3,12,200000,2,6,60000,Approve
+foodpanda,thin,tier3,5,4,12,200000,1.5,6,65000,Approve
+foodpanda,thin,tier3,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,6,1,12,200000,2,6,55000,Approve
+foodpanda,thin,tier3,6,2,12,200000,2,6,60000,Approve
+foodpanda,thin,tier3,6,3,12,200000,2,6,65000,Approve
+foodpanda,thin,tier3,6,4,12,200000,1.5,6,70000,Approve
+foodpanda,thin,tier3,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,7,1,12,200000,2,6,75000,Approve
+foodpanda,thin,tier3,7,2,12,200000,2,6,75000,Approve
+foodpanda,thin,tier3,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier3,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,1,1,6,500000,7,12,25000,Approve
+foodpanda,thin,tier4,1,2,6,500000,6,12,30000,Approve
+foodpanda,thin,tier4,1,3,6,400000,6,12,35000,Approve
+foodpanda,thin,tier4,1,4,9,400000,4,9,40000,Approve
+foodpanda,thin,tier4,1,5,12,200000,2,6,45000,Approve
+foodpanda,thin,tier4,1,6,12,200000,2,6,50000,Approve
+foodpanda,thin,tier4,1,7,12,200000,1.5,6,55000,Approve
+foodpanda,thin,tier4,1,8,12,200000,1.5,6,60000,Approve
+foodpanda,thin,tier4,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,2,1,6,500000,6,12,25000,Approve
+foodpanda,thin,tier4,2,2,6,400000,5,12,30000,Approve
+foodpanda,thin,tier4,2,3,6,400000,5,12,35000,Approve
+foodpanda,thin,tier4,2,4,9,300000,3,9,40000,Approve
+foodpanda,thin,tier4,2,5,12,200000,2,6,45000,Approve
+foodpanda,thin,tier4,2,6,12,200000,2,6,50000,Approve
+foodpanda,thin,tier4,2,7,12,200000,1.5,6,55000,Approve
+foodpanda,thin,tier4,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,3,1,9,300000,4,9,35000,Approve
+foodpanda,thin,tier4,3,2,9,300000,3,9,40000,Approve
+foodpanda,thin,tier4,3,3,9,300000,3,9,45000,Approve
+foodpanda,thin,tier4,3,4,12,200000,2,6,50000,Approve
+foodpanda,thin,tier4,3,5,12,200000,2,6,55000,Approve
+foodpanda,thin,tier4,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,4,1,9,200000,3,6,45000,Approve
+foodpanda,thin,tier4,4,2,9,200000,2,6,50000,Approve
+foodpanda,thin,tier4,4,3,9,200000,2,6,55000,Approve
+foodpanda,thin,tier4,4,4,12,200000,2,6,60000,Approve
+foodpanda,thin,tier4,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,5,1,12,200000,2,6,50000,Approve
+foodpanda,thin,tier4,5,2,12,200000,2,6,55000,Approve
+foodpanda,thin,tier4,5,3,12,200000,2,6,60000,Approve
+foodpanda,thin,tier4,5,4,12,200000,1.5,6,65000,Approve
+foodpanda,thin,tier4,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,6,1,12,200000,2,6,55000,Approve
+foodpanda,thin,tier4,6,2,12,200000,2,6,60000,Approve
+foodpanda,thin,tier4,6,3,12,200000,2,6,65000,Approve
+foodpanda,thin,tier4,6,4,12,200000,1.5,6,70000,Approve
+foodpanda,thin,tier4,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,7,1,12,200000,2,6,75000,Approve
+foodpanda,thin,tier4,7,2,12,200000,2,6,75000,Approve
+foodpanda,thin,tier4,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,thin,tier4,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,1,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,1,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,1,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,1,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,1,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,1,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,1,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,1,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,2,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,2,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,2,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,2,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,2,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,2,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,2,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,3,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,3,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,3,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,3,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,3,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,4,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,4,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,4,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,4,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,5,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,5,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,5,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,5,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,6,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,6,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,6,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,6,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,7,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,7,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier1,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,1,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,1,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,1,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,1,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,1,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,1,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,1,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,1,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,2,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,2,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,2,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,2,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,2,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,2,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,2,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,3,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,3,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,3,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,3,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,3,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,4,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,4,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,4,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,4,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,5,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,5,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,5,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,5,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,6,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,6,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,6,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,6,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,7,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,7,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier2,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,1,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,1,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,1,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,1,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,1,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,1,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,1,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,1,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,2,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,2,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,2,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,2,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,2,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,2,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,2,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,3,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,3,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,3,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,3,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,3,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,4,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,4,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,4,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,4,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,5,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,5,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,5,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,5,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,6,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,6,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,6,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,6,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,7,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,7,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier3,10,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,1,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,1,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,1,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,1,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,1,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,1,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,1,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,1,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,1,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,1,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,2,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,2,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,2,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,2,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,2,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,2,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,2,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,2,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,2,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,2,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,3,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,3,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,3,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,3,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,3,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,3,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,3,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,3,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,3,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,3,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,4,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,4,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,4,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,4,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,4,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,4,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,4,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,4,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,4,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,4,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,5,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,5,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,5,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,5,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,5,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,5,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,5,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,5,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,5,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,5,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,6,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,6,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,6,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,6,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,6,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,6,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,6,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,6,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,6,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,6,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,7,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,7,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,7,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,7,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,7,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,7,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,7,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,7,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,7,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,7,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,8,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,8,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,8,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,8,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,8,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,8,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,8,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,8,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,8,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,8,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,9,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,9,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,9,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,9,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,9,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,9,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,9,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,9,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,9,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,9,10,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,10,1,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,10,2,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,10,3,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,10,4,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,10,5,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,10,6,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,10,7,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,10,8,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,10,9,NA,NA,NA,NA,NA,Decline
+foodpanda,no hit,tier4,10,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,1,1,6,500000,7,12,25000,Approve
+zomato,thick,tier1,1,2,6,500000,6,12,30000,Approve
+zomato,thick,tier1,1,3,6,400000,6,12,35000,Approve
+zomato,thick,tier1,1,4,9,400000,4,9,40000,Approve
+zomato,thick,tier1,1,5,12,200000,2,6,45000,Approve
+zomato,thick,tier1,1,6,12,200000,2,6,50000,Approve
+zomato,thick,tier1,1,7,12,200000,1.5,6,55000,Approve
+zomato,thick,tier1,1,8,12,200000,1.5,6,60000,Approve
+zomato,thick,tier1,1,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,1,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,2,1,6,500000,6,12,25000,Approve
+zomato,thick,tier1,2,2,6,400000,5,12,30000,Approve
+zomato,thick,tier1,2,3,6,400000,5,12,35000,Approve
+zomato,thick,tier1,2,4,9,300000,3,9,40000,Approve
+zomato,thick,tier1,2,5,12,200000,2,6,45000,Approve
+zomato,thick,tier1,2,6,12,200000,2,6,50000,Approve
+zomato,thick,tier1,2,7,12,200000,1.5,6,55000,Approve
+zomato,thick,tier1,2,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,2,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,2,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,3,1,9,300000,4,9,35000,Approve
+zomato,thick,tier1,3,2,9,300000,3,9,40000,Approve
+zomato,thick,tier1,3,3,9,300000,3,9,45000,Approve
+zomato,thick,tier1,3,4,12,200000,2,6,50000,Approve
+zomato,thick,tier1,3,5,12,200000,2,6,55000,Approve
+zomato,thick,tier1,3,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,3,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,3,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,3,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,3,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,4,1,9,200000,3,6,45000,Approve
+zomato,thick,tier1,4,2,9,200000,2,6,50000,Approve
+zomato,thick,tier1,4,3,9,200000,2,6,55000,Approve
+zomato,thick,tier1,4,4,12,200000,2,6,60000,Approve
+zomato,thick,tier1,4,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,4,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,4,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,4,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,4,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,4,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,5,1,12,200000,2,6,50000,Approve
+zomato,thick,tier1,5,2,12,200000,2,6,55000,Approve
+zomato,thick,tier1,5,3,12,200000,2,6,60000,Approve
+zomato,thick,tier1,5,4,12,200000,1.5,6,65000,Approve
+zomato,thick,tier1,5,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,5,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,5,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,5,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,5,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,5,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,6,1,12,200000,2,6,55000,Approve
+zomato,thick,tier1,6,2,12,200000,2,6,60000,Approve
+zomato,thick,tier1,6,3,12,200000,2,6,65000,Approve
+zomato,thick,tier1,6,4,12,200000,1.5,6,70000,Approve
+zomato,thick,tier1,6,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,6,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,6,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,6,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,6,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,6,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,7,1,12,200000,2,6,75000,Approve
+zomato,thick,tier1,7,2,12,200000,2,6,75000,Approve
+zomato,thick,tier1,7,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,7,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,7,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,7,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,7,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,7,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,7,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,7,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,8,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,8,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,8,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,8,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,8,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,8,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,8,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,8,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,8,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,8,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,9,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,9,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,9,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,9,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,9,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,9,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,9,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,9,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,9,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,9,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,10,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,10,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,10,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,10,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,10,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,10,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,10,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,10,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,10,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier1,10,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,1,1,6,500000,7,12,25000,Approve
+zomato,thick,tier2,1,2,6,500000,6,12,30000,Approve
+zomato,thick,tier2,1,3,6,400000,6,12,35000,Approve
+zomato,thick,tier2,1,4,9,400000,4,9,40000,Approve
+zomato,thick,tier2,1,5,12,200000,2,6,45000,Approve
+zomato,thick,tier2,1,6,12,200000,2,6,50000,Approve
+zomato,thick,tier2,1,7,12,200000,1.5,6,55000,Approve
+zomato,thick,tier2,1,8,12,200000,1.5,6,60000,Approve
+zomato,thick,tier2,1,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,1,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,2,1,6,500000,6,12,25000,Approve
+zomato,thick,tier2,2,2,6,400000,5,12,30000,Approve
+zomato,thick,tier2,2,3,6,400000,5,12,35000,Approve
+zomato,thick,tier2,2,4,9,300000,3,9,40000,Approve
+zomato,thick,tier2,2,5,12,200000,2,6,45000,Approve
+zomato,thick,tier2,2,6,12,200000,2,6,50000,Approve
+zomato,thick,tier2,2,7,12,200000,1.5,6,55000,Approve
+zomato,thick,tier2,2,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,2,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,2,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,3,1,9,300000,4,9,35000,Approve
+zomato,thick,tier2,3,2,9,300000,3,9,40000,Approve
+zomato,thick,tier2,3,3,9,300000,3,9,45000,Approve
+zomato,thick,tier2,3,4,12,200000,2,6,50000,Approve
+zomato,thick,tier2,3,5,12,200000,2,6,55000,Approve
+zomato,thick,tier2,3,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,3,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,3,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,3,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,3,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,4,1,9,200000,3,6,45000,Approve
+zomato,thick,tier2,4,2,9,200000,2,6,50000,Approve
+zomato,thick,tier2,4,3,9,200000,2,6,55000,Approve
+zomato,thick,tier2,4,4,12,200000,2,6,60000,Approve
+zomato,thick,tier2,4,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,4,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,4,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,4,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,4,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,4,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,5,1,12,200000,2,6,50000,Approve
+zomato,thick,tier2,5,2,12,200000,2,6,55000,Approve
+zomato,thick,tier2,5,3,12,200000,2,6,60000,Approve
+zomato,thick,tier2,5,4,12,200000,1.5,6,65000,Approve
+zomato,thick,tier2,5,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,5,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,5,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,5,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,5,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,5,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,6,1,12,200000,2,6,55000,Approve
+zomato,thick,tier2,6,2,12,200000,2,6,60000,Approve
+zomato,thick,tier2,6,3,12,200000,2,6,65000,Approve
+zomato,thick,tier2,6,4,12,200000,1.5,6,70000,Approve
+zomato,thick,tier2,6,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,6,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,6,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,6,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,6,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,6,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,7,1,12,200000,2,6,75000,Approve
+zomato,thick,tier2,7,2,12,200000,2,6,75000,Approve
+zomato,thick,tier2,7,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,7,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,7,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,7,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,7,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,7,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,7,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,7,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,8,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,8,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,8,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,8,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,8,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,8,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,8,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,8,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,8,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,8,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,9,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,9,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,9,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,9,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,9,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,9,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,9,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,9,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,9,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,9,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,10,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,10,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,10,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,10,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,10,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,10,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,10,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,10,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,10,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier2,10,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,1,1,6,500000,7,12,25000,Approve
+zomato,thick,tier3,1,2,6,500000,6,12,30000,Approve
+zomato,thick,tier3,1,3,6,400000,6,12,35000,Approve
+zomato,thick,tier3,1,4,9,400000,4,9,40000,Approve
+zomato,thick,tier3,1,5,12,200000,2,6,45000,Approve
+zomato,thick,tier3,1,6,12,200000,2,6,50000,Approve
+zomato,thick,tier3,1,7,12,200000,1.5,6,55000,Approve
+zomato,thick,tier3,1,8,12,200000,1.5,6,60000,Approve
+zomato,thick,tier3,1,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,1,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,2,1,6,500000,6,12,25000,Approve
+zomato,thick,tier3,2,2,6,400000,5,12,30000,Approve
+zomato,thick,tier3,2,3,6,400000,5,12,35000,Approve
+zomato,thick,tier3,2,4,9,300000,3,9,40000,Approve
+zomato,thick,tier3,2,5,12,200000,2,6,45000,Approve
+zomato,thick,tier3,2,6,12,200000,2,6,50000,Approve
+zomato,thick,tier3,2,7,12,200000,1.5,6,55000,Approve
+zomato,thick,tier3,2,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,2,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,2,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,3,1,9,300000,4,9,35000,Approve
+zomato,thick,tier3,3,2,9,300000,3,9,40000,Approve
+zomato,thick,tier3,3,3,9,300000,3,9,45000,Approve
+zomato,thick,tier3,3,4,12,200000,2,6,50000,Approve
+zomato,thick,tier3,3,5,12,200000,2,6,55000,Approve
+zomato,thick,tier3,3,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,3,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,3,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,3,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,3,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,4,1,9,200000,3,6,45000,Approve
+zomato,thick,tier3,4,2,9,200000,2,6,50000,Approve
+zomato,thick,tier3,4,3,9,200000,2,6,55000,Approve
+zomato,thick,tier3,4,4,12,200000,2,6,60000,Approve
+zomato,thick,tier3,4,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,4,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,4,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,4,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,4,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,4,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,5,1,12,200000,2,6,50000,Approve
+zomato,thick,tier3,5,2,12,200000,2,6,55000,Approve
+zomato,thick,tier3,5,3,12,200000,2,6,60000,Approve
+zomato,thick,tier3,5,4,12,200000,1.5,6,65000,Approve
+zomato,thick,tier3,5,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,5,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,5,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,5,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,5,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,5,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,6,1,12,200000,2,6,55000,Approve
+zomato,thick,tier3,6,2,12,200000,2,6,60000,Approve
+zomato,thick,tier3,6,3,12,200000,2,6,65000,Approve
+zomato,thick,tier3,6,4,12,200000,1.5,6,70000,Approve
+zomato,thick,tier3,6,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,6,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,6,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,6,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,6,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,6,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,7,1,12,200000,2,6,75000,Approve
+zomato,thick,tier3,7,2,12,200000,2,6,75000,Approve
+zomato,thick,tier3,7,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,7,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,7,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,7,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,7,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,7,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,7,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,7,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,8,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,8,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,8,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,8,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,8,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,8,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,8,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,8,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,8,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,8,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,9,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,9,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,9,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,9,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,9,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,9,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,9,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,9,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,9,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,9,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,10,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,10,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,10,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,10,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,10,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,10,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,10,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,10,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,10,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier3,10,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,1,1,6,500000,7,12,25000,Approve
+zomato,thick,tier4,1,2,6,500000,6,12,30000,Approve
+zomato,thick,tier4,1,3,6,400000,6,12,35000,Approve
+zomato,thick,tier4,1,4,9,400000,4,9,40000,Approve
+zomato,thick,tier4,1,5,12,200000,2,6,45000,Approve
+zomato,thick,tier4,1,6,12,200000,2,6,50000,Approve
+zomato,thick,tier4,1,7,12,200000,1.5,6,55000,Approve
+zomato,thick,tier4,1,8,12,200000,1.5,6,60000,Approve
+zomato,thick,tier4,1,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,1,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,2,1,6,500000,6,12,25000,Approve
+zomato,thick,tier4,2,2,6,400000,5,12,30000,Approve
+zomato,thick,tier4,2,3,6,400000,5,12,35000,Approve
+zomato,thick,tier4,2,4,9,300000,3,9,40000,Approve
+zomato,thick,tier4,2,5,12,200000,2,6,45000,Approve
+zomato,thick,tier4,2,6,12,200000,2,6,50000,Approve
+zomato,thick,tier4,2,7,12,200000,1.5,6,55000,Approve
+zomato,thick,tier4,2,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,2,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,2,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,3,1,9,300000,4,9,35000,Approve
+zomato,thick,tier4,3,2,9,300000,3,9,40000,Approve
+zomato,thick,tier4,3,3,9,300000,3,9,45000,Approve
+zomato,thick,tier4,3,4,12,200000,2,6,50000,Approve
+zomato,thick,tier4,3,5,12,200000,2,6,55000,Approve
+zomato,thick,tier4,3,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,3,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,3,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,3,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,3,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,4,1,9,200000,3,6,45000,Approve
+zomato,thick,tier4,4,2,9,200000,2,6,50000,Approve
+zomato,thick,tier4,4,3,9,200000,2,6,55000,Approve
+zomato,thick,tier4,4,4,12,200000,2,6,60000,Approve
+zomato,thick,tier4,4,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,4,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,4,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,4,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,4,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,4,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,5,1,12,200000,2,6,50000,Approve
+zomato,thick,tier4,5,2,12,200000,2,6,55000,Approve
+zomato,thick,tier4,5,3,12,200000,2,6,60000,Approve
+zomato,thick,tier4,5,4,12,200000,1.5,6,65000,Approve
+zomato,thick,tier4,5,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,5,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,5,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,5,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,5,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,5,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,6,1,12,200000,2,6,55000,Approve
+zomato,thick,tier4,6,2,12,200000,2,6,60000,Approve
+zomato,thick,tier4,6,3,12,200000,2,6,65000,Approve
+zomato,thick,tier4,6,4,12,200000,1.5,6,70000,Approve
+zomato,thick,tier4,6,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,6,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,6,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,6,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,6,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,6,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,7,1,12,200000,2,6,75000,Approve
+zomato,thick,tier4,7,2,12,200000,2,6,75000,Approve
+zomato,thick,tier4,7,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,7,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,7,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,7,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,7,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,7,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,7,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,7,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,8,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,8,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,8,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,8,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,8,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,8,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,8,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,8,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,8,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,8,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,9,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,9,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,9,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,9,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,9,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,9,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,9,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,9,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,9,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,9,10,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,10,1,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,10,2,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,10,3,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,10,4,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,10,5,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,10,6,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,10,7,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,10,8,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,10,9,NA,NA,NA,NA,NA,Decline
+zomato,thick,tier4,10,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,1,1,6,500000,7,12,25000,Approve
+zomato,thin,tier1,1,2,6,500000,6,12,30000,Approve
+zomato,thin,tier1,1,3,6,400000,6,12,35000,Approve
+zomato,thin,tier1,1,4,9,400000,4,9,40000,Approve
+zomato,thin,tier1,1,5,12,200000,2,6,45000,Approve
+zomato,thin,tier1,1,6,12,200000,2,6,50000,Approve
+zomato,thin,tier1,1,7,12,200000,1.5,6,55000,Approve
+zomato,thin,tier1,1,8,12,200000,1.5,6,60000,Approve
+zomato,thin,tier1,1,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,1,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,2,1,6,500000,6,12,25000,Approve
+zomato,thin,tier1,2,2,6,400000,5,12,30000,Approve
+zomato,thin,tier1,2,3,6,400000,5,12,35000,Approve
+zomato,thin,tier1,2,4,9,300000,3,9,40000,Approve
+zomato,thin,tier1,2,5,12,200000,2,6,45000,Approve
+zomato,thin,tier1,2,6,12,200000,2,6,50000,Approve
+zomato,thin,tier1,2,7,12,200000,1.5,6,55000,Approve
+zomato,thin,tier1,2,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,2,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,2,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,3,1,9,300000,4,9,35000,Approve
+zomato,thin,tier1,3,2,9,300000,3,9,40000,Approve
+zomato,thin,tier1,3,3,9,300000,3,9,45000,Approve
+zomato,thin,tier1,3,4,12,200000,2,6,50000,Approve
+zomato,thin,tier1,3,5,12,200000,2,6,55000,Approve
+zomato,thin,tier1,3,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,3,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,3,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,3,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,3,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,4,1,9,200000,3,6,45000,Approve
+zomato,thin,tier1,4,2,9,200000,2,6,50000,Approve
+zomato,thin,tier1,4,3,9,200000,2,6,55000,Approve
+zomato,thin,tier1,4,4,12,200000,2,6,60000,Approve
+zomato,thin,tier1,4,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,4,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,4,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,4,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,4,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,4,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,5,1,12,200000,2,6,50000,Approve
+zomato,thin,tier1,5,2,12,200000,2,6,55000,Approve
+zomato,thin,tier1,5,3,12,200000,2,6,60000,Approve
+zomato,thin,tier1,5,4,12,200000,1.5,6,65000,Approve
+zomato,thin,tier1,5,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,5,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,5,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,5,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,5,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,5,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,6,1,12,200000,2,6,55000,Approve
+zomato,thin,tier1,6,2,12,200000,2,6,60000,Approve
+zomato,thin,tier1,6,3,12,200000,2,6,65000,Approve
+zomato,thin,tier1,6,4,12,200000,1.5,6,70000,Approve
+zomato,thin,tier1,6,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,6,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,6,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,6,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,6,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,6,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,7,1,12,200000,2,6,75000,Approve
+zomato,thin,tier1,7,2,12,200000,2,6,75000,Approve
+zomato,thin,tier1,7,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,7,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,7,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,7,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,7,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,7,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,7,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,7,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,8,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,8,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,8,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,8,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,8,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,8,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,8,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,8,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,8,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,8,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,9,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,9,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,9,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,9,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,9,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,9,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,9,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,9,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,9,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,9,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,10,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,10,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,10,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,10,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,10,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,10,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,10,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,10,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,10,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier1,10,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,1,1,6,500000,7,12,25000,Approve
+zomato,thin,tier2,1,2,6,500000,6,12,30000,Approve
+zomato,thin,tier2,1,3,6,400000,6,12,35000,Approve
+zomato,thin,tier2,1,4,9,400000,4,9,40000,Approve
+zomato,thin,tier2,1,5,12,200000,2,6,45000,Approve
+zomato,thin,tier2,1,6,12,200000,2,6,50000,Approve
+zomato,thin,tier2,1,7,12,200000,1.5,6,55000,Approve
+zomato,thin,tier2,1,8,12,200000,1.5,6,60000,Approve
+zomato,thin,tier2,1,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,1,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,2,1,6,500000,6,12,25000,Approve
+zomato,thin,tier2,2,2,6,400000,5,12,30000,Approve
+zomato,thin,tier2,2,3,6,400000,5,12,35000,Approve
+zomato,thin,tier2,2,4,9,300000,3,9,40000,Approve
+zomato,thin,tier2,2,5,12,200000,2,6,45000,Approve
+zomato,thin,tier2,2,6,12,200000,2,6,50000,Approve
+zomato,thin,tier2,2,7,12,200000,1.5,6,55000,Approve
+zomato,thin,tier2,2,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,2,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,2,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,3,1,9,300000,4,9,35000,Approve
+zomato,thin,tier2,3,2,9,300000,3,9,40000,Approve
+zomato,thin,tier2,3,3,9,300000,3,9,45000,Approve
+zomato,thin,tier2,3,4,12,200000,2,6,50000,Approve
+zomato,thin,tier2,3,5,12,200000,2,6,55000,Approve
+zomato,thin,tier2,3,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,3,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,3,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,3,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,3,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,4,1,9,200000,3,6,45000,Approve
+zomato,thin,tier2,4,2,9,200000,2,6,50000,Approve
+zomato,thin,tier2,4,3,9,200000,2,6,55000,Approve
+zomato,thin,tier2,4,4,12,200000,2,6,60000,Approve
+zomato,thin,tier2,4,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,4,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,4,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,4,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,4,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,4,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,5,1,12,200000,2,6,50000,Approve
+zomato,thin,tier2,5,2,12,200000,2,6,55000,Approve
+zomato,thin,tier2,5,3,12,200000,2,6,60000,Approve
+zomato,thin,tier2,5,4,12,200000,1.5,6,65000,Approve
+zomato,thin,tier2,5,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,5,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,5,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,5,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,5,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,5,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,6,1,12,200000,2,6,55000,Approve
+zomato,thin,tier2,6,2,12,200000,2,6,60000,Approve
+zomato,thin,tier2,6,3,12,200000,2,6,65000,Approve
+zomato,thin,tier2,6,4,12,200000,1.5,6,70000,Approve
+zomato,thin,tier2,6,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,6,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,6,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,6,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,6,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,6,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,7,1,12,200000,2,6,75000,Approve
+zomato,thin,tier2,7,2,12,200000,2,6,75000,Approve
+zomato,thin,tier2,7,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,7,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,7,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,7,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,7,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,7,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,7,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,7,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,8,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,8,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,8,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,8,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,8,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,8,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,8,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,8,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,8,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,8,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,9,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,9,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,9,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,9,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,9,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,9,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,9,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,9,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,9,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,9,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,10,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,10,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,10,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,10,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,10,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,10,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,10,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,10,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,10,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier2,10,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,1,1,6,500000,7,12,25000,Approve
+zomato,thin,tier3,1,2,6,500000,6,12,30000,Approve
+zomato,thin,tier3,1,3,6,400000,6,12,35000,Approve
+zomato,thin,tier3,1,4,9,400000,4,9,40000,Approve
+zomato,thin,tier3,1,5,12,200000,2,6,45000,Approve
+zomato,thin,tier3,1,6,12,200000,2,6,50000,Approve
+zomato,thin,tier3,1,7,12,200000,1.5,6,55000,Approve
+zomato,thin,tier3,1,8,12,200000,1.5,6,60000,Approve
+zomato,thin,tier3,1,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,1,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,2,1,6,500000,6,12,25000,Approve
+zomato,thin,tier3,2,2,6,400000,5,12,30000,Approve
+zomato,thin,tier3,2,3,6,400000,5,12,35000,Approve
+zomato,thin,tier3,2,4,9,300000,3,9,40000,Approve
+zomato,thin,tier3,2,5,12,200000,2,6,45000,Approve
+zomato,thin,tier3,2,6,12,200000,2,6,50000,Approve
+zomato,thin,tier3,2,7,12,200000,1.5,6,55000,Approve
+zomato,thin,tier3,2,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,2,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,2,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,3,1,9,300000,4,9,35000,Approve
+zomato,thin,tier3,3,2,9,300000,3,9,40000,Approve
+zomato,thin,tier3,3,3,9,300000,3,9,45000,Approve
+zomato,thin,tier3,3,4,12,200000,2,6,50000,Approve
+zomato,thin,tier3,3,5,12,200000,2,6,55000,Approve
+zomato,thin,tier3,3,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,3,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,3,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,3,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,3,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,4,1,9,200000,3,6,45000,Approve
+zomato,thin,tier3,4,2,9,200000,2,6,50000,Approve
+zomato,thin,tier3,4,3,9,200000,2,6,55000,Approve
+zomato,thin,tier3,4,4,12,200000,2,6,60000,Approve
+zomato,thin,tier3,4,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,4,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,4,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,4,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,4,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,4,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,5,1,12,200000,2,6,50000,Approve
+zomato,thin,tier3,5,2,12,200000,2,6,55000,Approve
+zomato,thin,tier3,5,3,12,200000,2,6,60000,Approve
+zomato,thin,tier3,5,4,12,200000,1.5,6,65000,Approve
+zomato,thin,tier3,5,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,5,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,5,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,5,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,5,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,5,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,6,1,12,200000,2,6,55000,Approve
+zomato,thin,tier3,6,2,12,200000,2,6,60000,Approve
+zomato,thin,tier3,6,3,12,200000,2,6,65000,Approve
+zomato,thin,tier3,6,4,12,200000,1.5,6,70000,Approve
+zomato,thin,tier3,6,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,6,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,6,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,6,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,6,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,6,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,7,1,12,200000,2,6,75000,Approve
+zomato,thin,tier3,7,2,12,200000,2,6,75000,Approve
+zomato,thin,tier3,7,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,7,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,7,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,7,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,7,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,7,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,7,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,7,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,8,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,8,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,8,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,8,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,8,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,8,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,8,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,8,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,8,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,8,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,9,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,9,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,9,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,9,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,9,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,9,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,9,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,9,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,9,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,9,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,10,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,10,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,10,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,10,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,10,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,10,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,10,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,10,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,10,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier3,10,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,1,1,6,500000,7,12,25000,Approve
+zomato,thin,tier4,1,2,6,500000,6,12,30000,Approve
+zomato,thin,tier4,1,3,6,400000,6,12,35000,Approve
+zomato,thin,tier4,1,4,9,400000,4,9,40000,Approve
+zomato,thin,tier4,1,5,12,200000,2,6,45000,Approve
+zomato,thin,tier4,1,6,12,200000,2,6,50000,Approve
+zomato,thin,tier4,1,7,12,200000,1.5,6,55000,Approve
+zomato,thin,tier4,1,8,12,200000,1.5,6,60000,Approve
+zomato,thin,tier4,1,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,1,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,2,1,6,500000,6,12,25000,Approve
+zomato,thin,tier4,2,2,6,400000,5,12,30000,Approve
+zomato,thin,tier4,2,3,6,400000,5,12,35000,Approve
+zomato,thin,tier4,2,4,9,300000,3,9,40000,Approve
+zomato,thin,tier4,2,5,12,200000,2,6,45000,Approve
+zomato,thin,tier4,2,6,12,200000,2,6,50000,Approve
+zomato,thin,tier4,2,7,12,200000,1.5,6,55000,Approve
+zomato,thin,tier4,2,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,2,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,2,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,3,1,9,300000,4,9,35000,Approve
+zomato,thin,tier4,3,2,9,300000,3,9,40000,Approve
+zomato,thin,tier4,3,3,9,300000,3,9,45000,Approve
+zomato,thin,tier4,3,4,12,200000,2,6,50000,Approve
+zomato,thin,tier4,3,5,12,200000,2,6,55000,Approve
+zomato,thin,tier4,3,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,3,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,3,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,3,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,3,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,4,1,9,200000,3,6,45000,Approve
+zomato,thin,tier4,4,2,9,200000,2,6,50000,Approve
+zomato,thin,tier4,4,3,9,200000,2,6,55000,Approve
+zomato,thin,tier4,4,4,12,200000,2,6,60000,Approve
+zomato,thin,tier4,4,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,4,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,4,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,4,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,4,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,4,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,5,1,12,200000,2,6,50000,Approve
+zomato,thin,tier4,5,2,12,200000,2,6,55000,Approve
+zomato,thin,tier4,5,3,12,200000,2,6,60000,Approve
+zomato,thin,tier4,5,4,12,200000,1.5,6,65000,Approve
+zomato,thin,tier4,5,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,5,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,5,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,5,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,5,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,5,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,6,1,12,200000,2,6,55000,Approve
+zomato,thin,tier4,6,2,12,200000,2,6,60000,Approve
+zomato,thin,tier4,6,3,12,200000,2,6,65000,Approve
+zomato,thin,tier4,6,4,12,200000,1.5,6,70000,Approve
+zomato,thin,tier4,6,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,6,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,6,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,6,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,6,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,6,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,7,1,12,200000,2,6,75000,Approve
+zomato,thin,tier4,7,2,12,200000,2,6,75000,Approve
+zomato,thin,tier4,7,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,7,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,7,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,7,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,7,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,7,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,7,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,7,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,8,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,8,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,8,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,8,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,8,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,8,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,8,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,8,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,8,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,8,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,9,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,9,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,9,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,9,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,9,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,9,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,9,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,9,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,9,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,9,10,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,10,1,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,10,2,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,10,3,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,10,4,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,10,5,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,10,6,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,10,7,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,10,8,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,10,9,NA,NA,NA,NA,NA,Decline
+zomato,thin,tier4,10,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,1,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,1,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,1,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,1,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,1,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,1,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,1,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,1,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,1,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,1,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,2,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,2,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,2,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,2,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,2,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,2,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,2,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,2,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,2,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,2,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,3,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,3,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,3,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,3,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,3,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,3,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,3,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,3,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,3,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,3,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,4,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,4,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,4,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,4,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,4,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,4,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,4,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,4,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,4,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,4,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,5,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,5,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,5,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,5,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,5,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,5,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,5,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,5,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,5,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,5,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,6,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,6,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,6,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,6,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,6,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,6,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,6,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,6,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,6,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,6,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,7,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,7,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,7,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,7,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,7,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,7,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,7,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,7,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,7,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,7,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,8,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,8,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,8,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,8,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,8,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,8,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,8,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,8,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,8,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,8,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,9,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,9,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,9,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,9,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,9,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,9,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,9,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,9,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,9,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,9,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,10,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,10,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,10,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,10,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,10,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,10,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,10,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,10,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,10,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier1,10,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,1,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,1,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,1,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,1,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,1,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,1,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,1,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,1,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,1,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,1,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,2,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,2,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,2,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,2,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,2,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,2,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,2,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,2,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,2,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,2,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,3,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,3,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,3,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,3,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,3,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,3,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,3,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,3,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,3,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,3,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,4,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,4,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,4,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,4,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,4,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,4,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,4,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,4,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,4,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,4,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,5,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,5,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,5,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,5,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,5,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,5,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,5,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,5,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,5,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,5,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,6,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,6,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,6,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,6,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,6,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,6,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,6,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,6,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,6,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,6,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,7,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,7,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,7,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,7,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,7,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,7,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,7,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,7,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,7,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,7,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,8,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,8,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,8,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,8,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,8,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,8,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,8,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,8,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,8,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,8,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,9,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,9,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,9,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,9,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,9,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,9,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,9,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,9,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,9,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,9,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,10,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,10,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,10,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,10,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,10,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,10,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,10,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,10,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,10,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier2,10,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,1,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,1,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,1,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,1,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,1,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,1,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,1,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,1,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,1,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,1,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,2,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,2,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,2,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,2,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,2,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,2,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,2,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,2,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,2,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,2,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,3,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,3,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,3,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,3,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,3,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,3,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,3,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,3,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,3,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,3,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,4,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,4,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,4,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,4,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,4,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,4,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,4,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,4,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,4,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,4,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,5,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,5,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,5,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,5,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,5,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,5,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,5,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,5,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,5,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,5,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,6,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,6,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,6,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,6,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,6,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,6,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,6,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,6,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,6,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,6,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,7,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,7,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,7,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,7,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,7,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,7,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,7,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,7,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,7,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,7,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,8,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,8,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,8,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,8,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,8,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,8,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,8,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,8,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,8,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,8,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,9,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,9,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,9,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,9,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,9,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,9,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,9,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,9,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,9,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,9,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,10,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,10,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,10,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,10,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,10,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,10,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,10,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,10,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,10,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier3,10,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,1,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,1,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,1,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,1,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,1,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,1,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,1,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,1,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,1,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,1,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,2,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,2,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,2,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,2,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,2,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,2,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,2,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,2,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,2,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,2,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,3,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,3,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,3,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,3,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,3,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,3,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,3,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,3,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,3,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,3,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,4,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,4,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,4,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,4,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,4,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,4,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,4,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,4,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,4,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,4,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,5,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,5,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,5,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,5,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,5,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,5,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,5,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,5,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,5,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,5,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,6,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,6,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,6,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,6,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,6,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,6,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,6,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,6,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,6,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,6,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,7,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,7,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,7,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,7,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,7,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,7,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,7,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,7,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,7,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,7,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,8,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,8,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,8,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,8,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,8,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,8,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,8,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,8,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,8,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,8,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,9,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,9,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,9,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,9,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,9,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,9,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,9,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,9,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,9,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,9,10,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,10,1,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,10,2,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,10,3,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,10,4,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,10,5,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,10,6,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,10,7,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,10,8,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,10,9,NA,NA,NA,NA,NA,Decline
+zomato,no hit,tier4,10,10,NA,NA,NA,NA,NA,Decline

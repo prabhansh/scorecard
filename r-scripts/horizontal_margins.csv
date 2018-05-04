@@ -1,0 +1,285 @@
+BusinessNature,Industry,SubIndustry,Margin
+manufacturer,agri & food,"all food, poultry, agri, dairy and marine.food, poultry, agri, dairy and marine products",0.1
+retail,agri & food,"all food, poultry, agri, dairy and marine.food, poultry, agri, dairy and marine products",0.1
+trading,agri & food,"all food, poultry, agri, dairy and marine.food, poultry, agri, dairy and marine products",0.05
+manufacturer,agri & food,"restaurant, bakery etc",0.07
+retail,agri & food,"restaurant, bakery etc",0.15
+trading,agri & food,"restaurant, bakery etc",0.05
+manufacturer,agri & food,,0.085
+retail,agri & food,,0.125
+trading,agri & food,,0.05
+manufacturer,automobiles,"2 and 3 wheelers, lcvs/ hcvs (commercial vehicles), passenger cars
+
+",0.07
+retail,automobiles,"2 and 3 wheelers, lcvs/ hcvs (commercial vehicles), passenger cars
+
+",0.1
+trading,automobiles,"2 and 3 wheelers, lcvs/ hcvs (commercial vehicles), passenger cars
+
+",0.05
+manufacturer,automobiles,"auto ancillaries, tyres",0.07
+retail,automobiles,"auto ancillaries, tyres",0.1
+trading,automobiles,"auto ancillaries, tyres",0.05
+manufacturer,automobiles,tractors,0.1
+retail,automobiles,tractors,0.1
+trading,automobiles,tractors,0.05
+manufacturer,automobiles,,0.08
+retail,automobiles,,0.1
+trading,automobiles,,0.05
+manufacturer,"books, office supplies & stationery","books, office supplies & stationery",0.1
+retail,"books, office supplies & stationery","books, office supplies & stationery",0.15
+trading,"books, office supplies & stationery","books, office supplies & stationery",0.05
+manufacturer,"books, office supplies & stationery",,0.1
+retail,"books, office supplies & stationery",,0.15
+trading,"books, office supplies & stationery",,0.05
+manufacturer,cement & construction,"cement products & asbestos products, construction materials
+",0.07
+retail,cement & construction,"cement products & asbestos products, construction materials
+",0.1
+trading,cement & construction,"cement products & asbestos products, construction materials
+",0.05
+manufacturer,cement & construction,,0.07
+retail,cement & construction,,0.1
+trading,cement & construction,,0.05
+manufacturer,construction,"ceramic tiles & sanitaryware, paints",0.1
+retail,construction,"ceramic tiles & sanitaryware, paints",0.1
+trading,construction,"ceramic tiles & sanitaryware, paints",0.05
+manufacturer,construction,,0.1
+retail,construction,,0.1
+trading,construction,,0.05
+manufacturer,containers & packaging,packaging,0.1
+retail,containers & packaging,packaging,0.1
+trading,containers & packaging,packaging,0.05
+manufacturer,containers & packaging,,0.1
+retail,containers & packaging,,0.1
+trading,containers & packaging,,0.05
+manufacturer,cycles,,0.07
+retail,cycles,,0.1
+trading,cycles,,0.05
+manufacturer,durables,electrical goods ( incl  invertor ) ,0.07
+retail,durables,electrical goods ( incl  invertor ) ,0.1
+trading,durables,electrical goods ( incl  invertor ) ,0.05
+manufacturer,durables,"hardware, plumbing & heating equipment",0.07
+retail,durables,"hardware, plumbing & heating equipment",0.1
+trading,durables,"hardware, plumbing & heating equipment",0.05
+manufacturer,durables,,0.07
+retail,durables,,0.1
+trading,durables,,0.05
+manufacturer,fertilizers & pesticides (all categories),,0.1
+retail,fertilizers & pesticides (all categories),,0.1
+trading,fertilizers & pesticides (all categories),,0.05
+manufacturer,fmcg & household products,"fmcg, kirana,",0.15
+retail,fmcg & household products,"fmcg, kirana,",0.1
+trading,fmcg & household products,"fmcg, kirana,",0.05
+manufacturer,fmcg & household products,personal care,0.1
+retail,fmcg & household products,personal care,0.1
+trading,fmcg & household products,personal care,0.05
+manufacturer,fmcg & household products,,0.125
+retail,fmcg & household products,,0.1
+trading,fmcg & household products,,0.05
+manufacturer,glass products,glass & glass products,0.07
+retail,glass products,glass & glass products,0.1
+trading,glass products,glass & glass products,0.05
+manufacturer,glass products,,0.07
+retail,glass products,,0.1
+trading,glass products,,0.05
+manufacturer,handicrafts & artificial items,handicrafts. imitation jewellery,0.15
+retail,handicrafts & artificial items,handicrafts. imitation jewellery,0.15
+trading,handicrafts & artificial items,handicrafts. imitation jewellery,0.1
+manufacturer,handicrafts & artificial items,,0.15
+retail,handicrafts & artificial items,,0.15
+trading,handicrafts & artificial items,,0.1
+manufacturer,hardware equipment,"networking, office equipment
+",0.07
+retail,hardware equipment,"networking, office equipment
+",0.1
+trading,hardware equipment,"networking, office equipment
+",0.05
+manufacturer,hardware equipment,"sanitary , lighting , decorative items",0.1
+retail,hardware equipment,"sanitary , lighting , decorative items",0.1
+trading,hardware equipment,"sanitary , lighting , decorative items",0.05
+manufacturer,hardware equipment,,0.085
+retail,hardware equipment,,0.1
+trading,hardware equipment,,0.05
+manufacturer,healthcare,"drugs & pharmaceuticals,drug proprietaries & druggists",0.1
+retail,healthcare,"drugs & pharmaceuticals,drug proprietaries & druggists",0.15
+trading,healthcare,"drugs & pharmaceuticals,drug proprietaries & druggists",0.05
+manufacturer,healthcare,medical equipment,0.1
+retail,healthcare,medical equipment,0.15
+trading,healthcare,medical equipment,0.05
+manufacturer,healthcare,,0.1
+retail,healthcare,,0.15
+trading,healthcare,,0.05
+manufacturer,"hobby, toy, game, camera & photographic supply stores ","hobby, toy, game, camera & photographic supply stores ",0.1
+retail,"hobby, toy, game, camera & photographic supply stores ","hobby, toy, game, camera & photographic supply stores ",0.15
+trading,"hobby, toy, game, camera & photographic supply stores ","hobby, toy, game, camera & photographic supply stores ",0.05
+manufacturer,"hobby, toy, game, camera & photographic supply stores ",,0.1
+retail,"hobby, toy, game, camera & photographic supply stores ",,0.15
+trading,"hobby, toy, game, camera & photographic supply stores ",,0.05
+manufacturer,home furniture & furnishing,home furniture & furnishing,0.1
+retail,home furniture & furnishing,home furniture & furnishing,0.1
+trading,home furniture & furnishing,home furniture & furnishing,0.1
+manufacturer,home furniture & furnishing,,0.1
+retail,home furniture & furnishing,,0.1
+trading,home furniture & furnishing,,0.1
+manufacturer,industrial equipment,industrial machinery- chemical and textiles,0.07
+retail,industrial equipment,industrial machinery- chemical and textiles,0.1
+trading,industrial equipment,industrial machinery- chemical and textiles,0.05
+manufacturer,industrial equipment,"printing, textile, welding machinery",0.07
+retail,industrial equipment,"printing, textile, welding machinery",0.1
+trading,industrial equipment,"printing, textile, welding machinery",0.05
+manufacturer,industrial equipment,,0.07
+retail,industrial equipment,,0.1
+retail,industrial equipment,,0.1
+trading,industrial equipment,,0.05
+trading,industrial equipment,,0.05
+manufacturer,it,computers(hardware) & electronics,0.07
+retail,it,computers(hardware) & electronics,0.1
+trading,it,computers(hardware) & electronics,0.03
+manufacturer,it,,0.07
+retail,it,,0.1
+trading,it,,0.03
+manufacturer,jewellery,gems & jewellery,0.05
+retail,jewellery,gems & jewellery,0.1
+trading,jewellery,gems & jewellery,0.05
+manufacturer,jewellery,,0.05
+retail,jewellery,,0.1
+trading,jewellery,,0.05
+manufacturer,leather,"leather footwear, luggage & leather goods, other leather products
+
+",0.1
+retail,leather,"leather footwear, luggage & leather goods, other leather products
+
+",0.1
+trading,leather,"leather footwear, luggage & leather goods, other leather products
+
+",0.1
+manufacturer,leather,,0.1
+retail,leather,,0.1
+trading,leather,,0.1
+manufacturer,metal & mining,"aluminum & aluminum products(manufacturer), coal and lignite, copper & copper products, ferro alloys, granite & other non-metal minerals, castings & forgings, steel, wires and cables
+
+
+
+
+",0.07
+retail,metal & mining,"aluminum & aluminum products(manufacturer), coal and lignite, copper & copper products, ferro alloys, granite & other non-metal minerals, castings & forgings, steel, wires and cables
+
+
+
+
+",0.1
+trading,metal & mining,"aluminum & aluminum products(manufacturer), coal and lignite, copper & copper products, ferro alloys, granite & other non-metal minerals, castings & forgings, steel, wires and cables
+
+
+
+
+",0.05
+manufacturer,metal & mining,,0.07
+retail,metal & mining,,0.1
+trading,metal & mining,,0.05
+manufacturer,opticians,opticians,0.1
+retail,opticians,opticians,0.15
+trading,opticians,opticians,0.05
+manufacturer,opticians,,0.1
+retail,opticians,,0.15
+trading,opticians,,0.05
+manufacturer,"petroleum, plastics & chemicals","petrol, diesel sale, dyes and pigments, plastic resins, other chemicals
+
+",0.07
+retail,"petroleum, plastics & chemicals","petrol, diesel sale, dyes and pigments, plastic resins, other chemicals
+
+",0.05
+trading,"petroleum, plastics & chemicals","petrol, diesel sale, dyes and pigments, plastic resins, other chemicals
+
+",0.05
+manufacturer,"petroleum, plastics & chemicals",,0.07
+retail,"petroleum, plastics & chemicals",,0.05
+trading,"petroleum, plastics & chemicals",,0.05
+manufacturer,photographic & allied products,,0.1
+retail,photographic & allied products,,0.1
+trading,photographic & allied products,,0.1
+manufacturer,rubber,rubber & rubber products,0.1
+retail,rubber,rubber & rubber products,0.1
+trading,rubber,rubber & rubber products,0.05
+manufacturer,rubber,,0.1
+retail,rubber,,0.1
+trading,rubber,,0.05
+manufacturer,sports goods,sports goods,0.1
+retail,sports goods,sports goods,0.15
+trading,sports goods,sports goods,0.1
+manufacturer,sports goods,,0.1
+retail,sports goods,,0.15
+trading,sports goods,,0.1
+manufacturer,textiles,readymade garments,0.1
+retail,textiles,readymade garments,0.15
+trading,textiles,readymade garments,0.05
+manufacturer,textiles,,0.1
+retail,textiles,,0.15
+trading,textiles,,0.05
+manufacturer,transportation & logistics,land transportation equipment,0.07
+retail,transportation & logistics,land transportation equipment,0.1
+trading,transportation & logistics,land transportation equipment,0.05
+manufacturer,transportation & logistics,,0.07
+retail,transportation & logistics,,0.1
+trading,transportation & logistics,,0.05
+manufacturer,wood and wood products,wood and wood products,0.1
+retail,wood and wood products,wood and wood products,0.15
+trading,wood and wood products,wood and wood products,0.1
+manufacturer,wood and wood products,,0.1
+retail,wood and wood products,,0.15
+trading,wood and wood products,,0.1
+service,advertising,,0.15
+service,automobiles,,0.1
+service,broadcasting,,0.15
+service,cable and other pay television services,,0.05
+service,catalog & mail-order houses,,0.1
+service,clearing & forwarding agents,,0.15
+service,coaching classes,,0.15
+service,commission agents,,0.05
+service,communication services,,0.05
+service,computer - software,,0.15
+service,computers(hardware) & electronics,,0.13
+service,construction equipment(cranes etc),,0.15
+service,consultants,,0.25
+service,containers & packaging,packaging,0.15
+service,courier,,0.15
+service,diagnostic centers,,0.2
+service,direct selling establishments,,0.1
+service,education consulting,,0.15
+service,engineering,,0.15
+service,entertainment and media content provider,,0.15
+service,equipment contractor,,0.15
+service,erp,,0.15
+service,executive search,,0.15
+service,hair saloon & parlors,,0.15
+service,hospitals,,0.15
+service,hotels & restaurants,,0.15
+service,hr and medical transcription,,0.15
+service,industrial services,,0.1
+service,internet services,,0.05
+service,it consulting,,0.15
+service,ites/ call centers,,0.15
+service,labour contractor,,0.15
+service,legal services (solicitor firms),,0.15
+service,"motion picture production, distribution and exhibition",,0.15
+service,networking,,0.15
+service,passenger transport services (road),,0.15
+service,professional,"doctor , engineer , ca",0.25
+service,professional,,0.25
+service,public relations,,0.15
+service,publishing,,0.15
+service,recreation & amusement parks,,0.1
+service,schools & colleges,,0.15
+service,security & housekeeping,,0.15
+service,services,automatic merchandising machine operators,0.1
+service,services,,0.1
+service,storage & warehousing,,0.15
+service,technical consultancy and engineering services,,0.15
+service,transportation & logistics,,0.05
+service,travel services,,0.15
+service,turnkey services,,0.1
+manufacturer,,,0.07
+retail,,,0.1
+service,,,0.15
+trading,,,0.05

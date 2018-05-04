@@ -1,0 +1,10 @@
+Gen2,Experian,FinalDecision
+Approve,Approve,Approve
+Approve,Decline,Manual Review
+Approve,Manual Review,Approve
+Decline,Approve,Decline
+Decline,Decline,Decline
+Decline,Manual Review,Decline
+Manual Review,Approve,Manual Review
+Manual Review,Decline,Decline
+Manual Review,Manual Review,Manual Review

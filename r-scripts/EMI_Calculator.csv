@@ -1,0 +1,14 @@
+Product,LatestBalance,Sanction
+credit,0.05,100
+home,0.0103,1030
+property,0.0103,1030
+hous,0.0103,1030
+personal,0.03,3000
+consumer,0.03,3000
+auto,0.025,2500
+vehicle,0.025,2500
+car ,0.025,2500
+wheeler,0.025,2500
+business,0.037,3700
+overdraft,0.05,100
+other,0.03,3000

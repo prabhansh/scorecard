@@ -1,0 +1,12 @@
+Industry,Reduce,Min_Interest,Max_Interest
+Agriculture,0,16,29
+logistics,0,16,29
+Service Stations,0,16,29
+B2B,1,16,29
+E-Commerce,2,16,29
+Food,2,22,26
+Hotels,2,16,29
+Retail,0,16,29
+Travel,1,16,25
+Unknown,0,16,29
+Used Cars,1,16,30

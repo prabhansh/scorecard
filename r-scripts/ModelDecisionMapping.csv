@@ -1,0 +1,31 @@
+ScoreBand,BureauThickness,model_decision,loan_cap,pricing,MaxTenor
+1,Thick,Approve,1000000,18,36 Months
+2,Thick,Approve,1000000,20,36 Months
+3,Thick,Approve,700000,22,36 Months
+4,Thick,Manual Review,700000,25,24 Months
+5,Thick,Manual Review,500000,26,24 Months
+6,Thick,Manual Review,500000,27,24 Months
+7,Thick,Manual Review,300000,27,12 Months
+8,Thick,Decline,0,0,NA
+9,Thick,Decline,0,0,NA
+10,Thick,Decline,0,0,NA
+1,Thin,Approve,500000,19,36 Months
+2,Thin,Approve,500000,21,24 Months
+3,Thin,Manual Review,400000,24,24 Months
+4,Thin,Manual Review,400000,27,24 Months
+5,Thin,Manual Review,300000,28,12 Months
+6,Thin,Manual Review,200000,30,12 Months
+7,Thin,Manual Review,100000,30,12 Months
+8,Thin,Manual Review,100000,30,12 Months
+9,Thin,Decline,0,0,NA
+10,Thin,Decline,0,0,NA
+1,No Hit,Manual Review,200000,24,12 Months
+2,No Hit,Manual Review,200000,26,12 Months
+3,No Hit,Manual Review,100000,30,6 Months
+4,No Hit,Manual Review,100000,32,6 Months
+5,No Hit,Manual Review,0,0,NA
+6,No Hit,Manual Review,0,0,NA
+7,No Hit,Manual Review,0,0,NA
+8,No Hit,Manual Review,0,0,NA
+9,No Hit,Manual Review,0,0,NA
+10,No Hit,Manual Review,0,0,NA

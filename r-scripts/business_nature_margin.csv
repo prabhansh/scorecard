@@ -1,0 +1,16 @@
+BusinessNature,NetMargin
+manufacturer,0.07
+manufacturing,0.07
+retail,0.1
+service,0.15
+trading,0.05
+food,0.15
+hotels,0.15
+travel,0.15
+b2b,0.05
+e-commerce,0.1
+food & beverages,0.15
+hotel,0.15
+others,0.1
+unknown,0.1
+used cars,0.1

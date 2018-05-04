@@ -1,0 +1,17 @@
+variable,score_factor
+delinquency_index,0.14
+cibil_score,0.08
+enquiry_index,0.1
+bureau_history_years,0.07
+unique_domain,0.03
+leverage_ratio,0.05
+account_opened_60,0.05
+owned_all,0.09
+has_age_18_to_25,0.05
+avrg_sanction_per_account,0.02
+total_monthly_debt,0.02
+business_vintage_in_years,0.09
+location_risk,0.1
+payment_index,0.02
+delinquency_index_lifetime,0.05
+number_of_writeoff,0.04

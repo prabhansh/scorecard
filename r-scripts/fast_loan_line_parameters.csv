@@ -1,0 +1,26 @@
+AccountType,BureauThickness,MeanBand,LoanCap,Factor
+Housing Loan,Thick,1,350000,0.28
+PL/BL,Thick,1,350000,0.9
+Auto,Thick,1,350000,0.9
+Others,Thick,1,350000,0.7
+Housing Loan,Thick,2,300000,0.21
+PL/BL,Thick,2,300000,0.8
+Auto,Thick,2,300000,0.8
+Others,Thick,2,300000,0.6
+Housing Loan,Thick,3,250000,0.17
+PL/BL,Thick,3,250000,0.7
+Auto,Thick,3,250000,0.7
+Others,Thick,3,250000,0.5
+Housing Loan,Thin,1,200000,0.17
+PL/BL,Thin,1,200000,0.8
+Auto,Thin,1,200000,0.8
+Others,Thin,1,200000,0.6
+Housing Loan,Thin,2,200000,0.17
+PL/BL,Thin,2,200000,0.7
+Auto,Thin,2,200000,0.7
+Others,Thin,2,200000,0.5
+Credit Card,Thick,1,350000,0.45
+Credit Card,Thick,2,300000,0.4
+Credit Card,Thick,3,250000,0.35
+Credit Card,Thin,1,200000,0.4
+Credit Card,Thin,2,200000,0.35

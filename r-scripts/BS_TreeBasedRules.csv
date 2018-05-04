@@ -1,0 +1,27 @@
+Decision,Thickness,is_declining_income,is_eod_l3M_low,is_low_stability,is_low_ability,Rule,Default
+Manual Review,Thick,1,1,1,1,Manual ReviewThick1111,0.19310
+Manual Review,Thick,1,1,1,0,Manual ReviewThick1110,0.19310
+Manual Review,Thick,1,1,0,1,Manual ReviewThick1101,0.19310
+Manual Review,Thick,1,1,0,0,Manual ReviewThick1100,0.19310
+Manual Review,Thin,1,1,1,1,Manual ReviewThin1111,0.22581
+Manual Review,Thin,1,1,1,0,Manual ReviewThin1110,0.22581
+Manual Review,Thin,1,1,0,1,Manual ReviewThin1101,0.22581
+Manual Review,Thin,1,1,0,0,Manual ReviewThin1100,0.22581
+Manual Review,Thin,0,1,1,1,Manual ReviewThin0111,0.19010
+Manual Review,Thin,0,1,1,0,Manual ReviewThin0110,0.19010
+Manual Review,Thin,0,1,0,1,Manual ReviewThin0101,0.19010
+Manual Review,Thin,0,1,0,0,Manual ReviewThin0100,0.19010
+NA,No Hit,1,1,1,1,NANo Hit1111,0.21818
+NA,No Hit,1,1,1,0,NANo Hit1110,0.21818
+NA,No Hit,1,1,0,1,NANo Hit1101,0.21818
+NA,No Hit,1,1,0,0,NANo Hit1100,0.21818
+NA,No Hit,1,0,1,1,NANo Hit1011,0.33333
+NA,No Hit,1,0,1,0,NANo Hit1010,0.20000
+NA,No Hit,1,0,0,1,NANo Hit1001,0.25000
+NA,No Hit,1,0,0,0,NANo Hit1000,0.28571
+NA,No Hit,0,1,1,1,NANo Hit0111,0.20930
+NA,No Hit,0,1,1,0,NANo Hit0110,0.20930
+NA,No Hit,0,1,0,1,NANo Hit0101,0.20930
+NA,No Hit,0,1,0,0,NANo Hit0100,0.20930
+NA,No Hit,0,0,1,1,NANo Hit0011,0.36842
+NA,No Hit,0,0,1,0,NANo Hit0010,0.22222

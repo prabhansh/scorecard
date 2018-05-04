@@ -1,0 +1,21 @@
+variable,var_name
+delinquency_index,Delinquency
+cibil_score,Cibil Score
+enquiry_index,Enquiry
+bureau_history_years,Bureau History
+leverage_ratio,Leverage
+account_opened_60,Accounts Opened Recently
+has_age_18_to_25,Age
+total_monthly_debt,Monthly Debt
+business_vintage_in_years,Vintage
+location_risk,Location
+delinquency_index_lifetime,Delinquency
+number_of_writeoff,Delinquency
+income_1,Income
+location_risk_self_declared,Location
+Age,Age
+overdue_accounts,Delinquency
+avg_sanction_per_account,Average Sanction Amount
+unique_domain_all,Email Domain
+total_principal_paid,Principal Paid
+owned_all,Property Owned
