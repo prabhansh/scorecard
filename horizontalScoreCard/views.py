@@ -1,3 +1,21 @@
-from django.shortcuts import render
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from .query import GetData
 
-# Create your views here.
+
+class ComputeScore(APIView):
+    """
+    View to compute scorecard for given request id
+    """
+
+    def get(self, request):
+        """
+        Return a list of all users.
+        """
+        response = {
+            'success': False
+        }
+        request_id = request.get('request_id')
+        data = GetData(request_id)
+        data_frame = data.data()
+        return Response(response)

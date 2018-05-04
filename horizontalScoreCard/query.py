@@ -95,34 +95,43 @@ bema_columns = "bema.pre_approved_amount as instant_credit_approved_amount, " \
 vrp_columns = "vrp.url as vertical_risk_profile_url, " \
                "vrp.vertical_band as vertical_risk_profile_band"
 
-request_id = 71167
-query = 'select {},{},{},{},{},{},{},{} from applications as ap left join anchors as an ' \
-        'on ap."anchorId"=an.id ' \
-        'left join business_relationship br on br.business_request_id = ap.business_request_id ' \
-        'left join business_entity be on be.id = br.business_entity_id ' \
-        'left join cibil_analysis ca on ca.\"ownerId\" = br.business_entity_id ' \
-        'left join business_entity_merchant_accounts bema on bema.business_entity_id = be.id ' \
-        'and bema.anchor_id = ap.\"anchorId\" ' \
-        'left join merchant_id_anchor_data_mapping mam on mam.merchant_id = bema.merchant_id' \
-        ' and an.name = mam.anchor_name ' \
-        'left join vertical_risk_profile vrp on be.details->>"online_platform_url" = vrp.url' \
-        ' where ap."requestId"={} limit 1'.format(
-            ap_columns, bs_vars, br_columns, be_columns,
-            ca_columns, mam_columns, bema_columns, vrp_columns, request_id)
 
+class GetData:
+    def __init__(self, request_id=None):
+        self.request_id = request_id
+        self.query = self.load_query
 
-def dictfetchall(cursor):
-    "Return all rows from a cursor as a dict"
-    columns = [col[0] for col in cursor.description]
-    return [
-        dict(zip(columns, row))
-        for row in cursor.fetchall()
-    ]
+    def load_query(self):
+        return 'select {},{},{},{},{},{},{},{} from applications as ap left join anchors as an ' \
+            'on ap."anchorId"=an.id ' \
+            'left join business_relationship br on br.business_request_id = ap.business_request_id ' \
+            'left join business_entity be on be.id = br.business_entity_id ' \
+            'left join cibil_analysis ca on ca.\"ownerId\" = br.business_entity_id ' \
+            'left join business_entity_merchant_accounts bema on bema.business_entity_id = be.id ' \
+            'and bema.anchor_id = ap.\"anchorId\" ' \
+            'left join merchant_id_anchor_data_mapping mam on mam.merchant_id = bema.merchant_id' \
+            ' and an.name = mam.anchor_name ' \
+            'left join vertical_risk_profile vrp on be.details->>"online_platform_url" = vrp.url' \
+            ' where ap."requestId"={} limit 1'.format(
+                ap_columns, bs_vars, br_columns, be_columns,
+                ca_columns, mam_columns, bema_columns, vrp_columns, self.request_id)
 
+    @staticmethod
+    def fetchall(cursor):
+        """
+        Return all rows from a cursor as a dict"
+        :param cursor:
+        :return:
+        """
+        columns = [col[0] for col in cursor.description]
+        return [
+            dict(zip(columns, row))
+            for row in cursor.fetchall()
+        ]
 
-with connection.cursor() as cursor:
-    cursor.execute(query);
-    data = dictfetchall(cursor)
-    print(data)
-
+    def data(self):
+        with connection.cursor() as cursor:
+            cursor.execute(self.query)
+            data = self.fetchall(cursor)
+            print(data)
 
