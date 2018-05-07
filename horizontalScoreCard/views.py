@@ -16,6 +16,6 @@ class ComputeScore(APIView):
             'success': False
         }
         request_id = request.get('request_id')
-        data = GetData(request_id)
-        data_frame = data.data()
+        query = GetData(request_id)
+        data_frame = query.execute()
         return Response(response)

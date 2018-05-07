@@ -99,7 +99,7 @@ vrp_columns = "vrp.url as vertical_risk_profile_url, " \
 class GetData:
     def __init__(self, request_id=None):
         self.request_id = request_id
-        self.query = self.load_query
+        self.query = self.load_query()
 
     def load_query(self):
         return 'select {},{},{},{},{},{},{},{} from applications as ap left join anchors as an ' \
@@ -129,9 +129,12 @@ class GetData:
             for row in cursor.fetchall()
         ]
 
-    def data(self):
+    def execute(self):
         with connection.cursor() as cursor:
             cursor.execute(self.query)
             data = self.fetchall(cursor)
             print(data)
+            return data
+
+
 
